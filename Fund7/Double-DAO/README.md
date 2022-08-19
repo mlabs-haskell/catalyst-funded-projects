@@ -43,7 +43,9 @@ Project ID: [700173](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 
 Merged with [Clarity (Clear Contracts)](https://clearcontracts.io/).
 
-Clarity Protocol prototype nearing completion.
+Clarity Protocol functionality being rolled out.
+
+Prototype nearing completion.
 
 
 ## Progress Report
