@@ -1,7 +1,11 @@
 # MLabs: Catalyst Funded Projects
 Your one-stop repo for progress reports and information on our projects funded through Project Catalyst.
 
-- [Who Are We]
+- [About This Repo](#about-this-repo)
+- [Who Are We?](#who-are-we)
+- [What Is Project Catalyst?](#what-is-project-catalyst)
+- [Current Initiatives](#current-initiatives)
+- [Questions/Comments](#questionscomments)
 
 ## About this Repo
 This repo is a one-stop information hub for MLabs' projects funded through Project Catalyst. Here you will find project overviews and high-level explanations of their motivation and use case. We've included a progress report for each outlining how they are developing relative to the goals outlined in their respective proposals. Some projects feature a demo video for further context.
