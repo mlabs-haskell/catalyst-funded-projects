@@ -41,7 +41,7 @@ Early prototype stage.
 ## Progress Report
 
 (August 2022)
-The Metera team rebranded DTF to Deevo. MLabs formerly considered rebranding, so this is not particularly unexpected. Branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their ethos are closely aligned.
+The Metera team rebranded DTF to Deevo. MLabs formerly considered rebranding, so this is not particularly unexpected. Branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
 
 Metera's testnet application is nearing completion and will likely launch in the near term. Deevo's structure is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
 
@@ -50,7 +50,7 @@ Originally, we believed DTF would be straightforward to implement from a technic
 
 However, upon initiating the DTF project we were confronted with the need for a clear legal structure. We employed a well-respected international legal firm to guide our structuring of DTF. This team provided a framework that, although complicated, was feasible to execute. Yet, their suggested structuring from our point of view involved notable compromises to our vision.
 
-At about that time, MLabs was presented with the opportunity to merge DTF with our client Metera. Essentially, Metera was building the same platform but with a focus on impact projects. Metera's smart contract architecture has largely been developed, so combining efforts was a straightforward call. Following the merger, the MLabs team will continue to offer and support technical development of the project, while the Metera team will handle marketing and business development.
+At about that time, MLabs was presented with the opportunity to merge DTF with our client Metera. Essentially, Metera was building the same platform but with a focus on impact projects. Metera's smart contract architecture has largely been developed, so combining efforts was a straightforward call. Following the merger, the MLabs team will continue to offer and support the technical development of the project, while the Metera team will handle marketing and business development.
 
 Currently, the Metera-DTF project is in the early prototype stage. This prototype realizes the functionality described in an early technical specification document.
 
