@@ -40,7 +40,12 @@ Early prototype stage.
 
 ## Progress Report
 
-(August 19th, 2022)
+(August 2022)
+The Metera team rebranded DTF to Deevo. MLabs formerly considered rebranding, so this is not particularly unexpected. Branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their ethos are closely aligned.
+
+Metera's testnet application is nearing completion and will likely launch in the near term. Deevo's structure is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
+
+(July 2022)
 Originally, we believed DTF would be straightforward to implement from a technical standpoint. This assumption was centered on the simple, vault-like smart contract that comprises the main structure of iDTFs. Indeed, later work with our client Metera (formerly Enigma) verified that such a design was not unduly challenging to implement.
 
 However, upon initiating the DTF project we were confronted with the need for a clear legal structure. We employed a well-respected international legal firm to guide our structuring of DTF. This team provided a framework that, although complicated, was feasible to execute. Yet, their suggested structuring from our point of view involved notable compromises to our vision.
@@ -54,10 +59,11 @@ Currently, the Metera-DTF project is in the early prototype stage. This prototyp
 Watch the Metera v01 demo [here](https://www.youtube.com/watch?v=f6mHcUM2GTg), published June 2022. 
 
 
-
 ## Further Information
 
 Metera website: https://metera.io/
 
-Proposal contact: info@mlabs.city
+Metera Twitter: https://twitter.com/MeteraImpactCap
+
+MLabs contact: info@mlabs.city
 
