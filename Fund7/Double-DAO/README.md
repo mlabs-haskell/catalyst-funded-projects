@@ -62,6 +62,7 @@ The partnership between MLabs and Clear Contracts was made official early in 202
 
 ## Demo Overview
 
+Up-to-date demo not currently available.
 
 ## Further Information
 
