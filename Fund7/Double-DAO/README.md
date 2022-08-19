@@ -52,7 +52,7 @@ Prototype nearing completion.
 
 (August 2022)
 
-Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating wiht a key early partner project. Initial PRs concerning voting integration were submitted for review. DAO Alliance underway, and promos and outreach were continued. A partner DAO readied the release of its staking mechanism.
+Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating wiht a key early partner project. Initial PRs concerning voting integration were submitted for review and merged. DAO Alliance underway, and promos and outreach were continued. A partner DAO readied the release of its staking mechanism.
 
 (July 2022)
 
