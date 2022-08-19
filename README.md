@@ -15,11 +15,11 @@ Finally, each overview contains a link to the original GitHub repo. There, avail
 ## Who Are We?
 [MLabs](https://mlabs.city) is a Haskell, Rust, Blockchain, and AI consultancy.
 
-With expertise in Haskell and formal methods, MLabs has quickly become one of the premier development firms in the Cardano Ecosystem. We are an IOG Plutus Partner and work regularly with IOG to develop the Cardano blockchain and ecosystem. Our team is composed of talented developers who have helped build community projects such as:
+With expertise in Haskell and formal methods, MLabs has quickly become one of the premier development firms in the Cardano ecosystem. We are an IOG Plutus Partner and work regularly with IOG to develop the Cardano blockchain and infrastructure. Our team is composed of talented developers who have helped build community projects such as:
 
 - [Liqwid](https://www.liqwid.finance/) - An open source, algorithmic and non-custodial interest rate protocol built for lenders, borrowers, and developers.
 - [SundaeSwap](https://sundaeswap.finance/) - A decentralized trading protocol on Cardano.
-- [Indigo](https://indigoprotocol.io/) -  An algorithmic, autonomous synthetics protocol for on-chain price exposure to real-world assets, built on Cardano.
+- [Indigo](https://indigoprotocol.io/) - An algorithmic, autonomous synthetics protocol for on-chain price exposure to real-world assets.
 - [dsSpark](https://www.dcspark.io/) - A product-based blockchain company that builds products and solutions for crypto projects.
 - [Seabug](https://seabug.io/) - An NFT marketplace on Cardano offering robust ownership protections and royalty guarantees.
 - Many others
@@ -45,7 +45,7 @@ As of writing, the Catalyst Fund9 vote is quickly approaching - currently schedu
 - [EternalSwap](https://cardano.ideascale.com/c/idea/414032) - A perpetual swaps dApp, powered by vAMMs, built on Cardano.
 - [CTL Blockfrost Backend](https://cardano.ideascale.com/c/idea/420791) - Adding Blockfrost backend support to the Cardano-Transaction-Library (CTL) to supplement Ogmios support. 
 - [Developer Documentation Drive](https://cardano.ideascale.com/c/idea/420778) - Documenting best practices and cutting-edge tooling for Cardano builders towards reducing developer training times.
-- [Cardano dApp Schemas](https://cardano.ideascale.com/c/idea/421376) - Configuration-based mechanism for specifying dApp data types and associated tooling for use w/ CTL, PAB, and like environments.
+- [Cardano dApp Schemas](https://cardano.ideascale.com/c/idea/421376) - Configuration-based mechanism for specifying dApp data types and associated tooling for use with CTL, PAB, and like environments.
 - [Cardano Throughput Solution](https://cardano.ideascale.com/c/idea/422388) - Cardano concurrency solution leveraging verifiable-random-functions, off-chain communication, and on-chain infrastructure.
  
 
