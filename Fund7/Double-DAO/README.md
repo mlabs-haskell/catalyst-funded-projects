@@ -1,6 +1,6 @@
 #Double DAO
 
-[DoubleDAO](https://cardano.ideascale.com/c/idea/384243) is a DAO tooling and governance protocol meant to streamline DAO deployment. With a configurable and modular structure, DAO leaders and community members simply choose the on-chain tooling they required and DoubleDAO provides code-free integration. This model is similar to a SaaS structure, and functionality can be added as needed. Furthermore, the $DD token helps ensure that incentives are aligned across the mothership DAO (DoubleDAO) and the pioneer DAOs that rely on its services.
+[DoubleDAO](https://cardano.ideascale.com/c/idea/384243) is a DAO tooling and governance protocol meant to streamline DAO deployment. With a configurable and modular structure, DAO leaders and community members simply choose the on-chain tooling they require and DoubleDAO provides code-free integration. This model is similar to a SaaS structure, and functionality can be added as needed. Furthermore, the $DD token helps ensure that incentives are aligned across the mothership DAO (DoubleDAO) and the pioneer DAOs that rely on its services.
 
 DoubleDAO offers several key features:
 
@@ -43,7 +43,7 @@ Project ID: [700173](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 
 Merged with [Clarity (Clear Contracts)](https://clearcontracts.io/).
 
-Clarity Protocol functionality being rolled out.
+Clarity Protocol functionality is being rolled out.
 
 Prototype nearing completion.
 
@@ -52,13 +52,13 @@ Prototype nearing completion.
 
 (August 2022)
 
-Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating wiht a key early partner project. Initial PRs concerning voting integration were submitted for review and merged. DAO Alliance underway, and promos and outreach were continued. A partner DAO readied the release of its staking mechanism.
+Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release, and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating with a key early partner project. Initial PRs concerning voting integration were submitted for review and merged. DAO Alliance underway, and promos and outreach were continued. Finally, A partner DAO readied the release of its staking mechanism.
 
 (July 2022)
 
-During the Fund7 funding round, MLabs was approached by Clear Contracts about consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours. Their project was already underdevelopment, so MLabs considered this a synergestic situation and agreed. Fortunately, both proposals were funded provided a strong foundation early on.
+During the Fund7 funding round, MLabs was approached by Clear Contracts about consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours. Their project was already in development, so MLabs considered this a synergistic situation and agreed. Fortunately, both proposals were funded providing a strong foundation early on.
 
-The partnership between MLabs and Clear Contracts was made official early in 2022. Since then, the Clear Contracts team has spearheaded outreach and business development while the MLabs side has guided technical development and also assisted with business development. Early on, a [whitepaper](https://docsend.com/view/897694qig7qux37e) was drafted, demoes helped clarify functionality, and initial partnerships were formed. Moreover, teamembers began an exploration of the [Agora governance model](https://github.com/Liqwid-Labs/agora) to understand whether it could be integrated into the project. Eventually, the project decided to fork the Agora module and incorporate it and technical specifications were drafted. 
+The partnership between MLabs and Clear Contracts was made official early in 2022. Since then, the Clear Contracts team has spearheaded outreach, frontend development, and business development while the MLabs side has guided smart contract development and also assisted with business development. Early on, a [whitepaper](https://docsend.com/view/897694qig7qux37e) was drafted, frontend demos helped clarify functionality, and initial partnerships were formed. Moreover, team members began exploring the [Agora governance model](https://github.com/Liqwid-Labs/agora) to understand whether it could be integrated into the project. Eventually, the project decided to fork the Agora module and incorporate it and technical specifications were drafted. 
 
 ## Demo Overview
 
