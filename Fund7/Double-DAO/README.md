@@ -66,12 +66,14 @@ Up-to-date demo not currently available.
 
 ## Further Information
 
-Clarity website: https://clearcontracts.io/
+Clarity Website: https://clearcontracts.io/
 
 Clarity Discord: https://discord.com/invite/JYV5wSx6kB
 
 Clarity Twitter: https://twitter.com/ClearContracts
 
 Clarity Contact: https://clearcontracts.io/contact
+
+MLabs Website: https://mlabs.city
 
 MLabs contact: info@mlabs.city
