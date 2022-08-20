@@ -36,7 +36,7 @@ Project ID: [700174](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 
 Merged with [Metera](https://metera.io/), a DeFi protocol on Cardano that creates sustainable portfolios.
 
-Rebranded to Deevo.
+Rebranding underway.
 
 Early prototype stage.
 
@@ -45,7 +45,7 @@ Early prototype stage.
 (August 2022)
 The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, so this is not particularly surprising. Also, tentative branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
 
-Metera's testnet application is nearing completion and will likely launch in the near term. Deevo's structure is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
+Metera's testnet application is nearing completion and will likely launch in the near term. DTF's architecture is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
 
 (July 2022)
 Originally, we believed DTF would be straightforward to implement from a technical standpoint. This assumption was centered on the simple, vault-like smart contract that comprises the main structure of iDTFs. Indeed, later work with our client Metera (formerly Enigma) verified that such a design was not unduly challenging to implement.
