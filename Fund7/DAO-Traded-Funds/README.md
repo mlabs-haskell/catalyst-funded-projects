@@ -43,7 +43,7 @@ Early prototype stage.
 ## Progress Report
 
 (August 2022)
-The Metera team rebranded DTF to Deevo. MLabs formerly considered rebranding, so this is not particularly unexpected. Branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
+The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, so this is not particularly surprising. Also, tentative branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
 
 Metera's testnet application is nearing completion and will likely launch in the near term. Deevo's structure is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
 
