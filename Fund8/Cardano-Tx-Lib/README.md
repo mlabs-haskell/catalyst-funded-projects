@@ -64,7 +64,7 @@ CTL GitHub Repo: https://github.com/Plutonomicon/cardano-transaction-lib
 
 Seabug Contracts Used with CTL: https://github.com/mlabs-haskell/seabug-contracts
 
-Seabug Website: https://https://seabug.io/
+Seabug Website: https://seabug.io/
 
 Seabug Medium: https://seabug.medium.com/
 
