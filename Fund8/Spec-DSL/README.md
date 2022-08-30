@@ -1,6 +1,6 @@
 # Plutus Specification Langauge 
 The [Plutus Specification Language (PSL)](https://cardano.ideascale.com/c/idea/396541) is an embedded DSL for formally 
-describing a dApp's behavior from an inter-transaction perspective (i.e., across dApp actions and interactions). In short, the PSL is used to circumscribes transaction types ([transaction families](https://github.com/mlabs-haskell/plutus-specification-language/blob/mario/families/families/TransactionFamily.md)) and define how, and under what conditions, value flows throughout an application. Developers can then use a dApp specification to test whether an implementation functions as designed.
+describing a dApp's behavior from an inter-transaction perspective (i.e., spanning dApp actions across time). In short, the PSL is applied to circumscribe transaction types ([transaction families](https://github.com/mlabs-haskell/plutus-specification-language/blob/mario/families/families/TransactionFamily.md)) and define how, and under what conditions, value flows throughout an application. Developers can then use a dApp specification to test whether an implementation functions as designed.
 
 Project ID: [800256](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/htmlview#)
 
@@ -11,8 +11,8 @@ GitHub Repo: https://github.com/mlabs-haskell/plutus-specification-language
 
 3 Months: 
 - Finish the initial exploratory phase of development 
-- Realize a functional specification language usable by advanced users
-- Backtest working dApps to further guide design
+- Realize a functional specification language accessible to advanced users
+- Backtest working dApps to refine design
 
 6 Months: 
 - Checking against production EUTXO scripts 
@@ -29,30 +29,29 @@ GitHub Repo: https://github.com/mlabs-haskell/plutus-specification-language
 
 The PSL is in an early prototype state, and a video demo should be posted soon.
 
-Type-level transaction specifcation established 
+Type-level transaction specifcation established.
 
-Above supports automatic generation of transaction diagrams. Automated test generation coming soon.
-
+The above supports automatic generation of transaction diagrams as well as automated test generation (coming soon).
 
 
 ## Progress Report
 
 ### August 2022
 
-Recently, transaction families have been defined, and their typing established. This is particularly exciting as the feature was described in the original concept of the project. The accomplishment also ushers in early functionality. With transaction families typed, automated transaction diagramming is now within reach, and automated test generation will soon follow.
+Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original concept of the project. The accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside pretty-printing, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
 
-In the meantime, some ergonomic improvements are required. Currently, team members are making progress with Pretty Printing and the necessary data types, and further Plutarch integration will see the PSL become even more useful. For example, the PSL may soon be able to support automatically deriving a rough smart contract script from a dApp specification.
+In the meantime, some ergonomic improvements are needed. Currently, team members are making progress implementing pretty-printing and the necessary data types, and further Plutarch integration will see the PSL become more effective. For example, our PSL may soon be able to derive an unrefined smart contract script from a protocol design. Indeed, these features seriously improve the developer experience on Cardano.
 
 ### July 2022
 
 Cardano was designed with functional programming and high-assurance code at heart. 
-Yet, formal methods tools remain sparse despite the arrival of smart contracts. 
-In lieu of this, MLabs began exploring formally verifying Plutus in October 2021. 
+Yet, formal method tooling remains sparse despite the arrival of smart contracts. 
+In lieu of this, MLabs began exploring the formal verification of Plutus applications in October 2021. 
 When Fund8 began, we had a basic outline of a dependently-typed eDSL and its 
 operational semantics, particularly a general framing of transaction families 
 and their applications.
 
-Because of this initial work, we were able work example specs fairly soon after receiving funding. It became clear the structures PSL and Plutarch overlapped significantly, so they were integrated to a minor degree. Specifically, Plutarch was leveraged on the backend to output a reference implementation of a given spec. Optics support was added, and the PSL started being used in a limited way with client projects.
+Owing to this groundwork, the PSL progressed quickly and we began working with example specs fairly soon after receiving funding. It became clear the structures of the PSL and [Plutarch](https://github.com/Plutonomicon/plutarch-plutus) overlapped significantly, so they were integrated to a degree. Specifically, Plutarch was leveraged on the backend to output a reference implementation of a given spec. Optics support was added, and the PSL started seeing limited use on client projects.
 
 
 ## Demo Overview
