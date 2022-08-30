@@ -37,7 +37,7 @@ Project Catalyst is the decentralized funding mechanism of the Cardano blockchai
 More detailed information on Project Catalyst can be found on the [community site](https://projectcatalyst.org/). [Project Catalyst Town Hall meetings](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf) are held weekly via Zoom and posted afterward on [YouTube](https://www.youtube.com/watch?v=4GMkGz333I0&list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk). They are a great way for beginners to get involved. Finally, the current funding round can be followed via the [Cardano IdeaScale page](https://cardano.ideascale.com/).
 
 ## Current Initiatives
-As of writing, the Catalyst Fund9 vote is quickly approaching - currently scheduled from August 25th - September 8th. Instructions on how to participate can be found [here](https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide). Below is a list of the proposals we have submitted. Naturally, we appreciate your consideration and support:
+As of writing, the Catalyst Fund9 vote is quickly approaching. Instructions on how to participate can be found [here](https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide). Below is a list of the proposals we have submitted. Naturally, we appreciate your consideration and support:
 
 - [Plutarch v2](https://cardano.ideascale.com/c/idea/414065) - Improving usability, functionality, and backend support for Plutarch, an efficient Plutus compiler. 
 - [Apropos](https://cardano.ideascale.com/c/idea/414086) -  Property testing framework for automatically testing edge cases.
