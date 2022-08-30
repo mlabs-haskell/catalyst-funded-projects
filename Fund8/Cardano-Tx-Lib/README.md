@@ -45,7 +45,7 @@ Freeze on new features until Vasil hardfork has concluded.
 
 Despite initial progress, team members faced significant difficulties first assimilating the CTL with major DApps. The mechanics of DApp actions exposed several bugs, and we realized how our library must be adapted to individual use cases. Fortunately, hurdles were by-and-large surmounted and testing and iterative development help stabilize applications. 
 
-Yet, work remains as the approaching hardfork introduced a new set of challenges. Vasil offers significant improvements to how smart contract systems transact and are structured. While exciting, these low-level optimizations mean dramatic changes to codebases are necessary. This is particularly true of light wallets, essentially the end-user of the CTL. As the Cardano ecosystem shifts, we are focused on absorbing the upgrades as smoothly as possible addressing user issues. Development of most new features has been frozen until stability is regained, and team members are instead fine-tuning error-handling and the developer experience.
+Yet, work remains as the approaching hardfork introduced a new set of challenges. Vasil offers significant improvements to how smart contract systems transact and are structured. While exciting, these low-level optimizations mean dramatic changes to codebases are necessary. This is particularly true of light wallets, essentially the end-user of the CTL. As the Cardano ecosystem shifts, we are focused on absorbing the upgrades as smoothly as possible and addressing user issues. Development of most new features has been frozen until stability is regained, and team members are instead fine-tuning error-handling and the developer experience.
 
 ### July 2022
 
