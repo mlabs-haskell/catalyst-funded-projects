@@ -4,7 +4,7 @@
 
 DoubleDAO offers several key features:
 
-- Securely storage of a DAO's funds
+- Secure storage of a DAO's funds
 - Integrated voting mechanism
 - Configurable base framework with methods for extension
 - Fair distribution of dividends and prizes to token holders
@@ -51,19 +51,45 @@ Prototype nearing completion.
 
 ### August 2022
 
-Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release, and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating with a key early partner project. Initial PRs concerning voting integration were submitted for review and merged. DAO Alliance underway, and promos and outreach were continued. Finally, A partner DAO readied the release of its staking mechanism.
+Recently, the Clarity Discord server has seen a robust increase in the number of members as
+the governance NFT is in its early stages of release, and the first community vote has opened.
+Work has begun on a DAO incubator program that is currently up for [Catalyst
+funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on
+integrating with a key early partner project. Initial PRs concerning voting integration were
+submitted for review and merged. DAO Alliance underway, and promos and outreach were
+continued. Finally, A partner DAO readied the release of its staking mechanism.
 
 ### July 2022
 
-During the Fund7 funding round, MLabs was approached by Clear Contracts about consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours. Their project was already in development, so MLabs considered this a synergistic situation and agreed. Fortunately, both proposals were funded providing a strong foundation early on.
+During the Fund7 round, MLabs was approached by Clear Contracts about
+consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours.
+Their project was already in development, so MLabs considered this a synergistic situation and
+agreed. Fortunately, both proposals were funded providing a strong foundation early on.
+The partnership between MLabs and Clear Contracts was made official early in 2022. Since
+then, the Clear Contracts team has spearheaded outreach, frontend development, and business
+development while the MLabs side has guided smart contract development and also assisted
+with business development. 
 
-The partnership between MLabs and Clear Contracts was made official early in 2022. Since then, the Clear Contracts team has spearheaded outreach, frontend development, and business development while the MLabs side has guided smart contract development and also assisted with business development. Early on, a [whitepaper](https://docsend.com/view/897694qig7qux37e) was drafted, frontend demos helped clarify functionality, and initial partnerships were formed. Moreover, team members began exploring the [Agora governance model](https://github.com/Liqwid-Labs/agora) to understand whether it could be integrated into the project. Eventually, the project decided to fork the Agora module and incorporate it and technical specifications were drafted. 
+Early in the project, a [whitepaper](https://docsend.com/view/897694qig7qux37e) was drafted, frontend demos helped
+clarify functionality, and initial partnerships were formed. Moreover, team members began
+exploring the [Agora governance model](https://github.com/Liqwid-Labs/agora) to understand
+whether it could be integrated. Eventually, the project decided to fork the Agora
+module and incorporate it and technical specifications were drafted.
+
+Partnerships with [Genius X](https://www.genius-x.co/) and [Liqwid Labs](https://www.liqwid.finance/) have been established.
+An advisory board is also being established:
+● Dwayne Cameron (CEO Liqwid Labs)
+● Shannon Wu (Early member of MakerDAO, Bloom Protocol)
+● Mateen Motavaf (CEO SundaeSwap)
+● Luke deWilde (Corporate Development, Golden State Warriors) 
 
 ## Demo Overview
 
-Up-to-date demo not currently available.
+Watch a product demo [here](https://www.loom.com/share/26cfdc4aa89d4611950e086a0ab0b800), published July 2022.
 
 ## Further Information
+
+Fund9 Proposals involving Clarity: https://linktr.ee/clarityprotocol
 
 Clarity Website: https://clearcontracts.io/
 
