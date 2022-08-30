@@ -1,4 +1,4 @@
-#Double DAO
+# Double DAO
 
 [DoubleDAO](https://cardano.ideascale.com/c/idea/384243) is a DAO tooling and governance protocol meant to streamline DAO deployment. With a configurable and modular structure, DAO leaders and community members simply choose the on-chain tooling they require and DoubleDAO provides code-free integration. This model is similar to a SaaS structure, and functionality can be added as needed. Furthermore, the $DD token helps ensure incentives are aligned across the mothership DAO (DoubleDAO platform) and the member DAOs that rely on its services.
 
@@ -49,11 +49,11 @@ Prototype nearing completion.
 
 ## Progress Report
 
-(August 2022)
+### August 2022
 
 Recently, the Clarity Discord server has seen a robust increase in the number of members as the governance NFT is in its early stages of release, and the first community vote was opened. Work has begun on a DAO incubator program that is currently up for [Catalyst funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on integrating with a key early partner project. Initial PRs concerning voting integration were submitted for review and merged. DAO Alliance underway, and promos and outreach were continued. Finally, A partner DAO readied the release of its staking mechanism.
 
-(July 2022)
+### July 2022
 
 During the Fund7 funding round, MLabs was approached by Clear Contracts about consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours. Their project was already in development, so MLabs considered this a synergistic situation and agreed. Fortunately, both proposals were funded providing a strong foundation early on.
 
