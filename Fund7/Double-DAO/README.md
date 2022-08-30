@@ -1,4 +1,4 @@
-# Double DAO
+# DoubleDAO
 
 [DoubleDAO](https://cardano.ideascale.com/c/idea/384243) is a DAO tooling and governance protocol meant to streamline DAO deployment. With a configurable and modular structure, DAO leaders and community members simply choose the on-chain tooling they require and DoubleDAO provides code-free integration. This model is similar to a SaaS structure, and functionality can be added as needed. Furthermore, the $DD token helps ensure incentives are aligned across the mothership DAO (DoubleDAO platform) and the member DAOs that rely on its services.
 
