@@ -38,7 +38,7 @@ The above underpins the automatic generation of transaction diagrams as well as 
 
 ### August 2022
 
-Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original concept of the project. The accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside prettyprinting, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
+Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original project outline. This accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside prettyprinting, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
 
 In the meantime, some ergonomic improvements are needed. Currently, team members are making progress implementing prettyprinting and the necessary data types, and further Plutarch integration will see the PSL become more effective. For example, our PSL may soon be able to derive an unrefined smart contract script from a protocol design. These features seriously improve the developer experience on Cardano.
 
