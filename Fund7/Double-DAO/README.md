@@ -37,7 +37,6 @@ Project ID: [700173](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 * Audit
 
 
-
 ## Current Status
 
 Merged with [Clarity (Clear Contracts)](https://clearcontracts.io/).
@@ -54,7 +53,7 @@ Prototype nearing completion.
 Recently, the Clarity Discord has experienced robust membership growth as
 the governance NFT is in its early stages of release, and the first community vote has opened.
 Work has begun on a DAO incubator program that is currently up for [Catalyst
-funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped-up on
+funding](https://cardano.ideascale.com/c/idea/414261). Moreover, work ramped up on
 integrating with a key early partner project. Initial PRs concerning voting integration were
 submitted for review and merged. A DAO Alliance is currently underway, and promos and outreach were
 continued. Finally, a partner DAO readied the release of its staking mechanism.
@@ -65,7 +64,7 @@ During the Fund7 round, MLabs was approached by Clear Contracts about
 consolidating their [similar proposal](https://cardano.ideascale.com/c/idea/382311) with ours.
 Their project was already in development, so MLabs considered this a synergistic situation and
 agreed. Fortunately, both proposals were funded providing a strong foundation early on, and the 
-MLabs - Clear Contracts patnership was made official early in 2022. Since, the Clear Contracts 
+MLabs - Clear Contracts partnership was made official early in 2022. Since, the Clear Contracts 
 team has spearheaded outreach, frontend development, and business development while MLabs has 
 guided smart contract development and also assisted with business development. 
 
@@ -82,15 +81,17 @@ An advisory board is also being established:
 ● Mateen Motavaf (CEO SundaeSwap)
 ● Luke deWilde (Corporate Development, Golden State Warriors) 
 
+
 ## Demo Overview
 
 Watch a product demo [here](https://www.loom.com/share/26cfdc4aa89d4611950e086a0ab0b800), published July 2022.
+
 
 ## Further Information
 
 Clarity's Fund9 Proposals: https://linktr.ee/clarityprotocol
 
-Clarity Website: https://clearcontracts.io/
+Clear Contracts Website: https://clearcontracts.io/
 
 Clarity Discord: https://discord.com/invite/JYV5wSx6kB
 
@@ -100,4 +101,6 @@ Clarity Contact: https://clearcontracts.io/contact
 
 MLabs Website: https://mlabs.city
 
-MLabs contact: info@mlabs.city
+MLabs Twitter: https://twitter.com/MLabs10
+
+MLabs Contact: info@mlabs.city
