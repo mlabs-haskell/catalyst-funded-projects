@@ -1,6 +1,6 @@
 # DAO-Traded-Funds
 
-[DAO-Traded-Funds (DTF)](https://cardano.ideascale.com/c/idea/381055) is a DeFi protocol supporting "crypto ETFs and index funds" for easy investing. A constituent fund, an iDTF, is a vehicle managed in a prescribed manner through arbitrage trading by community members (see [rebalance.png](https://github.com/somthn0somthn/catalyst-funded-projects/blob/main/Fund7/DAO-Traded-Funds/rebalance.png)). Investing is passive from a user's perspective, and portfolios are curated by community members to ensure quality iDTFs. Essentially, DTF addresses the same use case as the [Token Sets protocol](https://www.tokensets.com/) on Ethereum, and our [whitepaper](https://drive.google.com/file/d/1Mz5AWiJd1oTPM_3_bF1uN-qNIyUSWN9u/view?usp=sharing) provides more detailed information.
+[DAO-Traded-Funds (DTF)](https://cardano.ideascale.com/c/idea/381055) is a DeFi protocol supporting "crypto ETFs and index funds" for easy investing. A constituent fund, an iDTF, is a vehicle managed in a prescribed manner through arbitrage trading by community members (see [rebalance.png](https://github.com/somthn0somthn/catalyst-funded-projects/blob/main/Fund7/DAO-Traded-Funds/rebalance.png)). Investing is passive from the user's perspective, and portfolios are curated by community members to ensure quality iDTFs. Essentially, DTF addresses the same use case as the [Token Sets protocol](https://www.tokensets.com/) on Ethereum, and our [whitepaper](https://drive.google.com/file/d/1Mz5AWiJd1oTPM_3_bF1uN-qNIyUSWN9u/view?usp=sharing) provides more detailed information.
 
 Project ID: [700174](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/htmlview#)
 
@@ -15,42 +15,43 @@ Project ID: [700174](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 
 
 3rd month:
-* Multi-Asset Vault Structure
+* Multi-asset vault structure
 * Tracker
-* Re-Balancing Functionality
+* Re-balancing functionality
 
 
 5th month:
-* Multi-Asset Deposit Functionality
-* DTF Deposit Fee Logic
-* UI Display
+* Multi-asset deposit functionality
+* DTF deposit fee logic
+* UI display
 
 
 8th month:
-* General Testing
-* Audit Prep
+* General testing
+* Audit prep
 * Audit
 
 
 ## Current Status
 
-Merged with [Metera](https://metera.io/), a DeFi protocol on Cardano that creates sustainable portfolios.
+Merged with [Metera](https://metera.io/), a DeFi protocol building on Cardano that supports sustainable portfolios.
 
 Rebranding underway.
 
 Early prototype stage.
 
+
 ## Progress Report
 
 ### August 2022
 
-The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, so this is not particularly surprising. Also, tentative branded assets have been developed. Recently, Metera has also been promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
+The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, so this is hardly surprising. Also, tentative brand assets have been created. Recently, Metera has also been cross-promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
 
-Metera's testnet application is nearing completion and will likely launch in the near term. DTF's architecture is markedly similar, so it will also likely be launched shortly afterward although this has not been entirely decided.
+Metera's testnet application is nearing completion, and a v0.2 will be underway once a development plan is established between Metera and MLabs. DTF's architecture is markedly similar to Metera's, so it will likely be incorporated effortlessly. However, Fund7 funds have been allocated to the Metera prototype as it is entirely the same architecture as DTF. That said, through our work with Metera the majority of our proposal milestones have already been achieved.
 
 ### **July 2022**
 
-Originally, we believed DTF would be straightforward to implement from a technical standpoint. This assumption was centered on the simple, vault-like smart contract that comprises the main structure of iDTFs. Indeed, later work with our client Metera (formerly Enigma) verified that such a design was not unduly challenging to implement.
+Originally, we believed DTF would be straightforward to implement from a technical standpoint. This assumption was centered on the simple, vault-like smart contract that comprises the main structure of the platform. Indeed, later work with our client Metera (formerly Enigma) verified that our design was not unduly challenging.
 
 However, upon initiating the DTF project we were confronted with the need for a clear legal structure. We engaged a well-respected international legal firm to guide our structuring of DTF. This team provided a framework that, although complicated, was feasible to execute. Yet, their suggested structuring, from our point of view, involved notable compromises to our vision.
 
@@ -58,16 +59,21 @@ Around that time, MLabs was presented with the opportunity to merge DTF with our
 
 Currently, the Metera-DTF project is in the early prototype stage. This prototype realizes the functionality described in an early technical specification document.
 
+
 ## Demo Overview
 
-Watch the Metera v01 demo [here](https://www.youtube.com/watch?v=f6mHcUM2GTg), published June 2022. 
+Watch the Metera v0.1 demo [here](https://www.youtube.com/watch?v=f6mHcUM2GTg), published June 2022. 
 
 
 ## Further Information
 
-Metera website: https://metera.io/
+Metera Website: https://metera.io/
 
 Metera Twitter: https://twitter.com/MeteraImpactCap
 
-MLabs contact: info@mlabs.city
+MLabs Website: https://mlabs.city
+
+MLabs Twitter: https://twitter.com/MLabs10
+
+MLabs Contact: info@mlabs.city
 
