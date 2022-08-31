@@ -29,29 +29,29 @@ GitHub Repo: https://github.com/mlabs-haskell/plutus-specification-language
 
 The PSL is in an early prototype state, and a video demo should be posted soon.
 
-Type-level transaction specifcation established.
+Type-level transaction specification established.
 
-The above supports automatic generation of transaction diagrams as well as automated test generation (coming soon).
+The above underpins the automatic generation of transaction diagrams as well as automated test generation (coming soon).
 
 
 ## Progress Report
 
 ### August 2022
 
-Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original concept of the project. The accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside pretty-printing, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
+Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original concept of the project. The accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside prettyprinting, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
 
-In the meantime, some ergonomic improvements are needed. Currently, team members are making progress implementing pretty-printing and the necessary data types, and further Plutarch integration will see the PSL become more effective. For example, our PSL may soon be able to derive an unrefined smart contract script from a protocol design. Indeed, these features seriously improve the developer experience on Cardano.
+In the meantime, some ergonomic improvements are needed. Currently, team members are making progress implementing prettyprinting and the necessary data types, and further Plutarch integration will see the PSL become more effective. For example, our PSL may soon be able to derive an unrefined smart contract script from a protocol design. These features seriously improve the developer experience on Cardano.
 
 ### July 2022
 
 Cardano was designed with functional programming and high-assurance code at heart. 
 Yet, formal method tooling remains sparse despite the arrival of smart contracts. 
-In lieu of this, MLabs began exploring the formal verification of Plutus applications in October 2021. 
-When Fund8 began, we had a basic outline of a dependently-typed eDSL and its 
+MLabs began exploring the formal verification of Plutus applications in October 2021. 
+When Fund8 began, we had a basic outline of a dependently-typed spec eDSL and its 
 operational semantics, particularly a general framing of transaction families 
 and their applications.
 
-Owing to this groundwork, the PSL progressed quickly and we began working with example specs fairly soon after receiving funding. It became clear the structures of the PSL and [Plutarch](https://github.com/Plutonomicon/plutarch-plutus) overlapped significantly, so they were integrated to a degree. Specifically, Plutarch was leveraged on the backend to output a reference implementation of a given spec. Optics support was added, and the PSL started seeing limited use on client projects.
+Thanks to this groundwork, the PSL progressed quickly, and we began working with example specs soon after receiving funding. We soon realized that the structures of the PSL and [Plutarch](https://github.com/Plutonomicon/plutarch-plutus) overlapped significantly, and we integrated Plutarch to a degree. Specifically, Plutarch was leveraged on the backend to output a reference implementation of a given spec. Optics support was added, and the PSL started seeing limited use on client projects.
 
 
 ## Demo Overview
