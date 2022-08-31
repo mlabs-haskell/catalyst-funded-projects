@@ -22,7 +22,7 @@ With expertise in Haskell and formal methods, MLabs has quickly become a premier
 - [Liqwid](https://www.liqwid.finance/) - An open source, algorithmic and non-custodial interest rate protocol built for lenders, borrowers, and developers.
 - [SundaeSwap](https://sundaeswap.finance/) - A decentralized trading protocol on Cardano.
 - [Indigo](https://indigoprotocol.io/) - An algorithmic, autonomous synthetics protocol for on-chain price exposure to real-world assets.
-- [dsSpark](https://www.dcspark.io/) - A product-based blockchain company that builds products and solutions for crypto projects.
+- [dcSpark](https://www.dcspark.io/) - A product-based blockchain company that builds products and solutions for crypto projects.
 - [Seabug](https://seabug.io/) - An NFT marketplace on Cardano offering robust ownership protections and royalty guarantees.
 - Many others
 
