@@ -55,7 +55,7 @@ Originally, we believed DTF would be straightforward to implement from a technic
 
 However, upon initiating the DTF project we were confronted with the need for a clear legal structure. We engaged a well-respected international legal firm to guide our structuring of DTF. This team provided a framework that, although complicated, was feasible to execute. Yet, their suggested structuring, from our point of view, involved notable compromises to our vision.
 
-Around that time, MLabs was presented with the opportunity to merge DTF with our client Metera. Essentially, Metera was building the same platform but with a focus on impact projects. Metera's smart contract architecture has largely been developed, so combining efforts was a straightforward call. Following the merger, the MLabs team will continue to offer and support the technical development of the project, while the Metera team will handle marketing and business development.
+Around that time, MLabs was presented with the opportunity to merge DTF with our client Metera. Essentially, Metera was building the same platform but with a focus on impact projects. Metera's smart contract architecture had progressed, so combining efforts was a straightforward call. Following the merger, the MLabs team will continue to offer and support the technical development of the project, while the Metera team will handle marketing and business development.
 
 Currently, the Metera-DTF project is in the early prototype stage. This prototype realizes the functionality described in an early technical specification document.
 
