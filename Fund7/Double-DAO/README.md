@@ -76,10 +76,10 @@ module and incorporate it, and technical specifications were drafted.
 
 Partnerships with [Genius X](https://www.genius-x.co/) and [Liqwid Labs](https://www.liqwid.finance/) have been established.
 An advisory board is also being established:
-● Dwayne Cameron (CEO Liqwid Labs)
-● Shannon Wu (Early member of MakerDAO, Bloom Protocol)
-● Mateen Motavaf (CEO SundaeSwap)
-● Luke deWilde (Corporate Development, Golden State Warriors) 
+* Dwayne Cameron (CEO Liqwid Labs)
+* Shannon Wu (Early member of MakerDAO, Bloom Protocol)
+* Mateen Motavaf (CEO SundaeSwap)
+* Luke deWilde (Corporate Development, Golden State Warriors) 
 
 
 ## Demo Overview
