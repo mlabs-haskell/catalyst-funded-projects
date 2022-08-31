@@ -1,6 +1,6 @@
 # Fund Overview
 
-| Proposal Name    | Requested Funds | Overview | Vote Result | Current Status   | 
+| Proposal Name    | Requested Funds | Overview | Vote Result | Status | 
 | ---------------- | --------- | --------------- | ----------- | ---------------- | 
 | [Cardano-Tx-Lib for Web3](https://cardano.ideascale.com/c/idea/396607) | $71,000 | SDK for constructing transactions in the browser  | Funded      | v2 released, initial integrations underway | 
 | [Spec DSL for dApp Security](https://cardano.ideascale.com/c/idea/396541) | $72,000 | eDSL for formally describing dApp behavior     | Funded      | Initial integration underway |  
