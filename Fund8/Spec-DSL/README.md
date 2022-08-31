@@ -1,6 +1,6 @@
 # Plutus Specification Langauge 
 The [Plutus Specification Language (PSL)](https://cardano.ideascale.com/c/idea/396541) is an embedded DSL for formally 
-describing a dApp's behavior from an inter-transaction perspective (i.e., spanning dApp actions across time). In short, the PSL is applied to circumscribe transaction types ([transaction families](https://github.com/mlabs-haskell/plutus-specification-language/blob/mario/families/families/TransactionFamily.md)) and define how, and under what conditions, value flows throughout an application. Developers can then use a dApp specification to test whether an implementation functions as designed.
+describing a dApp's behavior from an inter-transaction perspective (i.e., spanning dApp actions across time). In short, the PSL is applied to circumscribe transaction types ([transaction families](https://github.com/mlabs-haskell/plutus-specification-language/blob/mario/families/families/TransactionFamily.md)) and define how, and under what conditions, value flows throughout an application. Developers can use a dApp specification to test whether an implementation functions as designed.
 
 Project ID: [800256](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/htmlview#)
 
