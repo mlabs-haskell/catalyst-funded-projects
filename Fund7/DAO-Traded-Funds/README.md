@@ -57,7 +57,7 @@ However, upon initiating the DTF project we were confronted with the need for a 
 
 Around that time, MLabs was presented with the opportunity to merge DTF with our client Metera. Essentially, Metera was building the same platform but with a focus on impact projects. Metera's smart contract architecture had progressed, so combining efforts was a straightforward call. Following the merger, the MLabs team will continue to offer and support the technical development of the project, while the Metera team will handle marketing and business development.
 
-Currently, the Metera-DTF project is in the early prototype stage. This prototype realizes the functionality described in an early technical specification document.
+Currently, the Metera-DTF project is in the early prototype stage. This prototype realizes the functionality described in an early technical specification document and can be easily ported to the DTF protocol.
 
 
 ## Demo Overview
