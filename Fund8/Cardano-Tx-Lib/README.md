@@ -55,7 +55,7 @@ That said, we have made substantial progress to date. It should be noted that CT
 
 ## Demo Overview
 
-[Video](https://www.youtube.com/watch?v=P0imLF6QvuM) published September 2022.
+[Video demo](https://www.youtube.com/watch?v=P0imLF6QvuM), published September 2022, features the CTL in use on [Seabug](http://page.seabug.io/), an NFT marketplace.
 
 ## Further Information
 
