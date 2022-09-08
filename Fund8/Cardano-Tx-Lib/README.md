@@ -55,7 +55,8 @@ That said, we have made substantial progress to date. It should be noted that CT
 
 ## Demo Overview
 
-No video demo is currently available.
+Video published September 2022.
+[![]( file:///home/s/CatalystDash/ctl-catalyst-demo-2022-09-06_14.59.20.mkv)]
 
 
 ## Further Information
