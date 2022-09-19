@@ -36,6 +36,14 @@ The above underpins the automatic generation of transaction diagrams as well as 
 
 ## Progress Report
 
+### September 2022
+
+PSL development last month focused on improving usability - particularly, diagram support. Bugs in diagram generation were resolved and formatting was improved. Transactions were also given the ability to provide greater clarity (e.g., displaying lists of relevant UTxOs).
+
+Along these lines, improvements were made to the documentation and the project's approachability. By this, we mean the repo was marginally reconfigured for ease of use and streamlining new project onboarding.
+
+Of note, the PSL has been used to largely spec a client project with the intention of building out the language to cover the project in its entirety. With this underway, the PSL team is currently deliberating on integrating with a second project. Once decided, work with a second project will be used to generalize the PSL - a major goal outlined in the original Catalyst proposal.
+
 ### August 2022
 
 Recently, transaction families have been defined, and their typing established. This is particularly exciting as this feature was described in the original project outline. This accomplishment also represents early functionality. With transaction families typed, automated transaction diagramming is possible. Alongside prettyprinting, specs will be human-readable and developers will be able to embed them into literate code documents. Automated test generation is now within reach and will be introduced soon.
