@@ -51,7 +51,7 @@ The CTL team focused largely on optimizations and ergonomics over the last month
 * Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc)
 * Initial Hydra integration
 * Additional wallet support (Lode, mock wallets)
-* Released demo video of CTL as experienced using Seabug, an NFT marketplace
+* Released [demo video](https://www.youtube.com/watch?v=P0imLF6QvuM) of CTL as experienced using Seabug, an NFT marketplace
 
 That said, the CTL team is thrilled to announce the release of CTL v2.0.0. The main update support for Babbage-era features, not least of which includes reference script support. Among other upgrades, the team:
 * Improved constraints interface
