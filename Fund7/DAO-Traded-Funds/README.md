@@ -43,6 +43,12 @@ Early prototype stage.
 
 ## Progress Report
 
+### September 2022
+
+On a high level, the Metera Business Development team focused on promoting their Fund9 proposal. Efforts included Twitter campaigns/Spaces and other collaborative meetings.
+
+We previously shared our v0.1 video demo and POC. Work began on a local testnet deployment using Plutip with the eventual aim of deploying to the public testnet. This is to demonstrate to users/voters that the on-chain portion of the project is functioning. Finally, v0.2 was scoped and a development roadmap was established between MLabs and the Metera Business development team.
+
 ### August 2022
 
 The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, so this is hardly surprising. Also, tentative brand assets have been created. Recently, Metera has also been cross-promoting closely with [Cardano 4 Climate (C4C)](https://cardano4climate.com/) as their motivations are closely aligned.
