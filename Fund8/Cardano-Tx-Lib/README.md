@@ -40,6 +40,26 @@ Freeze on new features until Vasil hardfork has concluded.
 
 ## Progress Report
 
+### September 2022
+
+The CTL team focused largely on optimizations and ergonomics over the last month as well as integrating support for Babbage. Several issues were managed and merged, including:
+
+* Updates to Flakes package manager for Nix
+* Fixing Babbage bugs (https://github.com/Plutonomicon/cardano-transaction-lib/issues/913)
+* Tx pretty printers
+* Parsing inline datums (https://github.com/Plutonomicon/cardano-transaction-lib/pull/931)
+* Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc)
+* Initial Hydra integration
+* Additional wallet support (Lode, mock wallets)
+* Released demo video of CTL as experienced using Seabug, an NFT marketplace
+
+That said, the CTL team is thrilled to announce the release of CTL v2.0.0. The main update support for Babbage-era features, not least of which includes reference script support. Among other upgrades, the team:
+* Improved constraints interface
+* Improved constraints API while mostly maintaining backward compatibility
+* Included example contracts highlighting new features
+
+Details, build instructions, further documentation, etc. is available via the [CTL Git repo](https://github.com/Plutonomicon/cardano-transaction-lib).
+
 ### August 2022
 
 Despite initial progress, team members faced significant difficulties first assimilating the CTL with major DApps. The mechanics of DApp actions exposed several bugs, and we realized how our library must be adapted to individual use cases. Fortunately, hurdles were by and large surmounted, and testing and iterative development helped stabilize applications. 
