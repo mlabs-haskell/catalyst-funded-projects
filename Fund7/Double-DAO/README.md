@@ -48,6 +48,14 @@ Prototype nearing completion.
 
 ## Progress Report
 
+### September 2022
+
+The Clarity team continued its weekly Town Hall breakout rooms in support of its Fund9 proposals and the project overall. Several collaborations and partnerships are underway, with some announced over the last month (e.g., Genius Yield, see [@clarity_dao](https://twitter.com/clarity_dao) on Twitter for details).
+
+On the development side, work on the governance protocol (e.g., proposal advancement) continued. Engineers initially faced complications minimizing utxo script size as well as incorporating government authority tokens (GATs, see [Liqwid-labs/Agora](https://github.com/Liqwid-Labs/agora)) throughout the relevant modules and processes. Devs will likely rely on reference scripts to sidestep the limitations and issues encountered. Work also began integrating the CTL, a [Fund8-funded proposal](https://bit.ly/3qO07S8). Currently, CTL v2 is supported (including Babbage features).
+
+Finally, high-level progress was also made. UX/UI was improved and the team accomplished more thorough MVP planning and scoping. Further detail on development updates can be found in the [Clarity Community Discord](http://bit.ly/38DT1cU).
+
 ### August 2022
 
 Recently, the Clarity Discord has experienced robust membership growth as
