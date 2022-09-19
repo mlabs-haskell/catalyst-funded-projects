@@ -45,9 +45,9 @@ Freeze on new features until Vasil hardfork has concluded.
 The CTL team focused largely on optimizations and ergonomics over the last month as well as integrating support for Babbage. Several issues were managed and merged, including:
 
 * Updates to Flakes package manager for Nix
-* Fixing Babbage bugs (https://github.com/Plutonomicon/cardano-transaction-lib/issues/913)
+* Fixing Babbage bugs 
 * Tx pretty printers
-* Parsing inline datums (https://github.com/Plutonomicon/cardano-transaction-lib/pull/931)
+* Parsing inline datums
 * Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc)
 * Initial Hydra integration
 * Additional wallet support (Lode, mock wallets)
