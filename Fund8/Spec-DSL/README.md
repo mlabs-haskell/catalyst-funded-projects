@@ -31,7 +31,7 @@ The PSL is in an early prototype state, and a video demo will be posted soon.
 
 Type-level transaction specification completed. 
 
-Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's applicability and deliberating on a second DApp for speccing.
+Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's applicability and deliberating on a second DApp for speccing and development.
 
 
 ## Progress Report
