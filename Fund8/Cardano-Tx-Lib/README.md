@@ -50,12 +50,12 @@ The CTL team focused primarily on optimizations and ergonomics over the last mon
 * Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc.)
 * Initial Hydra integration
 * Additional wallet support (Lode, mock wallets)
-* Released [demo video](https://www.youtube.com/watch?v=P0imLF6QvuM) of CTL as experienced using Seabug, an NFT marketplace
+* Released [demo video](https://www.youtube.com/watch?v=P0imLF6QvuM) of the CTL as integrated into Seabug, an NFT marketplace
 
-That said, the CTL team is thrilled to announce the release of CTL v2.0.0. Although further milestones remain, the anticipated update involves support for Babbage-era features, not least of which is reference script support. Among other upgrades, the team:
+That said, the CTL team is thrilled to announce the release of CTL v2.0.0. Although further milestones remain, the anticipated update involves support for Babbage-era features, not least of which is reference scripts. Among other upgrades, the team:
 * Improved the constraints interface
 * Improved the constraints API while mostly maintaining backward compatibility
-* Released example contracts highlighting new features
+* Released example contracts showcasing new features
 
 Details, build instructions, further documentation, and so on is available via the [CTL Git repo](https://github.com/Plutonomicon/cardano-transaction-lib).
 
