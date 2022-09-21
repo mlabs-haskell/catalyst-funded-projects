@@ -38,7 +38,7 @@ The above underpins the automatic generation of transaction diagrams as well as 
 
 ### September 2022
 
-PSL development last month focused on improving usability - particularly, fine-tuning the transaction diagram experience. Bugs in diagram generation were resolved and formatting was improved. Transactions were also given the ability to provide greater detail (e.g., displaying lists of relevant UTxOs).
+PSL development last month focused on improving usability - particularly, fine-tuning the transaction diagram experience. Bugs in diagram generation were resolved, and formatting was improved. Transactions were also given the ability to provide greater detail (e.g., displaying lists of relevant UTxOs).
 
 Along these lines, improvements were made to the documentation and the project's approachability. More specifically, the PSL repo was marginally reconfigured for ease of use and streamlining new project onboarding.
 
