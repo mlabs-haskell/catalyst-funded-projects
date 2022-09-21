@@ -42,13 +42,12 @@ Freeze on new features until Vasil hardfork has concluded.
 
 ### September 2022
 
-The CTL team focused largely on optimizations and ergonomics over the last month as well as integrating support for Babbage. Several issues were managed and merged, including:
-
+The CTL team focused primarily on optimizations and ergonomics over the last month as well as integrating support for Babbage. Several issues were managed and merged, including:
 * Updates to Flakes package manager for Nix
 * Fixing Babbage bugs 
 * Tx pretty printers
 * Parsing inline datums
-* Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc)
+* Optimization of local testing environments  (Plutip support, suppressing logging, preprod testnet deployment, etc.)
 * Initial Hydra integration
 * Additional wallet support (Lode, mock wallets)
 * Released [demo video](https://www.youtube.com/watch?v=P0imLF6QvuM) of CTL as experienced using Seabug, an NFT marketplace
@@ -58,7 +57,7 @@ That said, the CTL team is thrilled to announce the release of CTL v2.0.0. The m
 * Improved the constraints API while mostly maintaining backward compatibility
 * Released example contracts highlighting new features
 
-Details, build instructions, further documentation, etc. is available via the [CTL Git repo](https://github.com/Plutonomicon/cardano-transaction-lib).
+Details, build instructions, further documentation, and so on is available via the [CTL Git repo](https://github.com/Plutonomicon/cardano-transaction-lib).
 
 ### August 2022
 
