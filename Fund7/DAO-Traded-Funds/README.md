@@ -38,7 +38,7 @@ Merged with [Metera](https://metera.io/), a DeFi protocol building on Cardano th
 
 Rebranding underway.
 
-Early prototype stage.
+Early prototype stage - see video demo below.
 
 
 ## Progress Report
