@@ -31,9 +31,9 @@ Support is planned for the following light wallets:
 
 ## Current Status
 
-v2.0.0 currently in beta.
+v2.0.0 released (includes Babbage support).
 
-Integration with [Seabug NFT Marketplace](https://seabug.io/) and other client projects ongoing. 
+Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video below - and several other client projects ongoing. 
 
 Freeze on new features until Vasil hardfork has concluded.
 
