@@ -29,9 +29,9 @@ GitHub Repo: https://github.com/mlabs-haskell/plutus-specification-language
 
 The PSL is in an early prototype state, and a video demo will be posted soon.
 
-Type-level transaction specification completed.
+Type-level transaction specification completed. 
 
-The above underpins the automatic generation of transaction diagrams as well as automated test generation (coming soon).
+Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's applicability and deliberating on a second DApp for speccing.
 
 
 ## Progress Report
