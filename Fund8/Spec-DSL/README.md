@@ -38,9 +38,9 @@ The above underpins the automatic generation of transaction diagrams as well as 
 
 ### September 2022
 
-PSL development last month focused on improving usability - particularly, diagram support. Bugs in diagram generation were resolved and formatting was improved. Transactions were also given the ability to provide greater clarity (e.g., displaying lists of relevant UTxOs).
+PSL development last month focused on improving usability - particularly, fine-tuning the transaction diagram experience. Bugs in diagram generation were resolved and formatting was improved. Transactions were also given the ability to provide greater detail (e.g., displaying lists of relevant UTxOs).
 
-Along these lines, improvements were made to the documentation and the project's approachability. By this, we mean the repo was marginally reconfigured for ease of use and streamlining new project onboarding.
+Along these lines, improvements were made to the documentation and the project's approachability. More specifically, the PSL repo was marginally reconfigured for ease of use and streamlining new project onboarding.
 
 Of note, the PSL has been used to largely spec a client project with the intention of building out the language to cover the project in its entirety. With this underway, the PSL team is currently deliberating on integrating with a second project. Once decided, work with a second project will be used to generalize the PSL - a major goal outlined in the original Catalyst proposal.
 
