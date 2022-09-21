@@ -40,7 +40,7 @@ More detailed information on Project Catalyst can be found on the [community sit
 
 
 ## Current Initiatives
-As of writing, the Catalyst Fund9 vote is quickly approaching. Instructions on participating can be found [here](https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide). Below is a list of the proposals we have under consideration. Naturally, we appreciate your support:
+As of writing, the Catalyst Fund9 vote has ended. Below is a list of the proposals we have under consideration. Naturally, we invite you to follow them:
 
 - [Plutarch v2](https://cardano.ideascale.com/c/idea/414065) - Improving usability, functionality, and backend support for Plutarch, an efficient Plutus compiler. 
 - [Apropos](https://cardano.ideascale.com/c/idea/414086) -  Property testing framework for automatically testing edge cases.
