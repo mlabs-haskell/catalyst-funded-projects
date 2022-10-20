@@ -43,6 +43,14 @@ Early prototype stage - see video demo below.
 
 ## Progress Report
 
+### October 2022
+
+Our efforts focused on Business Development needs throughout October. MLabs and Metera team members met at RareBloom, and both used the opportunity effectively for networking.
+
+Unfortunately, the Metera/DAO-Traded-Funds effort did not receive funding in Catalyst Fund9. This is disappointing because further technical development is largely paused until funding is resolved.
+
+That said, the technical deliverables outlined in the DAO-Traded-Funds Fund7 grant have been delivered far ahead of schedule. This is largely due to MLabs ability to frontload expenses and the commitment and drive of the Metera team. As such, over the coming weeks we intend to submit our closeout report while continuing to source funding to further our project. 
+
 ### September 2022
 
 On a high level, the Metera Business Development team focused on promoting their Fund9 proposal. Efforts included Twitter campaigns/Spaces and other collaborative meetings.
