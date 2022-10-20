@@ -40,6 +40,14 @@ Freeze on new features until Vasil hardfork has concluded.
 
 ## Progress Report
 
+### October 2022
+
+E2E testing began in earnest over the last month on the CTL project. Several issues arose throughout this work, and a number of updates to the build configs of associated projects (DApps/wallets) were necessary to get things working properly.
+
+Naturally, we continued work integrating partner wallets with respect to Vasil upgrades, particularly the mechanics of UTxO creation and submission. As mentioned in previous updates,  this area of work has posed some challenges during the Vasil transition period. Most notably, this includes work integrated Nami, Lode, Gero, and Eternl wallets
+
+Fortunately, progress has been significant here, and E2E testing for several wallets has begun on the preview and preprod test networks. Edge case issues are still being sorted. However, functionality is steadily improving.
+
 ### September 2022
 
 The CTL team focused primarily on optimizations and ergonomics over the last month as well as integrating support for Babbage. Several issues were managed and merged, including:
