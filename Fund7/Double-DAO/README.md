@@ -48,6 +48,16 @@ Prototype nearing completion.
 
 ## Progress Report
 
+### October 2022
+
+October was a busy month for the Clarity/DoubleDAO project, especially on the Business Development side. We met with major Cardano projects at RareBloom, cNFTcon, and the Web 3 Expo. We participated in panel discussions and the like, networking constantly, and The Clarity Twitter handle (@clarity_dao) showcases these efforts nicely. A platform aimed at promoting and facilitating DAO adoption, this type of work is vital to the recognition of our project and, ultimately, making the Cardano ecosystem more decentralized.
+
+Perhaps more importantly, Clarity also kicked off our DAO pitch competition and saw greater-than-expected interest and proposal submissions -- 22 DAOs building on Cardano are aiming to qualify for the competition. Although this initiative was not funded in Fund9, we decided to push forward regardless because it stands to underpin an ecosystem of robust DAOs. Submissions closed Oct 18th, and we are anticipating the results.
+
+On the development side, upbeat progress continued. We updated CTL to v2, ushering in Babbage support while updating our offchain code. Developers added support for querying a user's wallets for Governance tokens - an important feature - and worked to simplify the deployment of reference scripts.
+
+Simultaneously, we worked through several front-end features to improve the user experience. Users can now manage how their favorite DAOs are displayed, more easily explore DAOs, and interact with and create governance proposals. A significant step, we also finalized the flow of DAO creations. This straightforward process allows users to easily create new DAOs by filling out a multi-step online form. 
+
 ### September 2022
 
 The Clarity team continued its weekly Town Hall breakout rooms in support of its Fund9 proposals and the project overall. Several collaborations and partnerships are underway, with some announced over the last month (e.g., Genius Yield, see [@clarity_dao](https://twitter.com/clarity_dao) on Twitter for details).
