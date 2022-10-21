@@ -36,6 +36,14 @@ Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's
 
 ## Progress Report
 
+### October 2022
+
+Work continued over the last month with generalizing the PSL. Towards this end, the formal methods team began work specifying a second DApp, Seabug. Seabug is an internal MLabs project that produces cNFT derivatives with enhanced ownership values. The minting derivative minting scheme of the protocol is somewhat complex, making it a good second use case for the PSL. Details can be found [here](https://drive.google.com/file/d/1F7a0lOWKJhEuYZxcK90qN2UN1rVePXRX/view)
+
+The formal methods team was able to specify the complicated transactions of Seabug, providing a greater degree of confidence in the eDSL approach of the PSL and its usefulness for other Cardano DApps, especially when combined with other formal methods tools. Naturally, with transactions specified transaction diagrams were straightforward to generate - a major secondary use case of the project.
+
+Finally, a number of maintenance commits occurred over the last month. These include fixing and updating library dependencies, updating tags, and so on. Finally, some diagramming errors concerning edge-case were addressed and largely resolved.
+
 ### September 2022
 
 PSL development last month focused on improving usability - particularly, fine-tuning the transaction diagram experience. Bugs in diagram generation were resolved, and formatting was improved. Transactions were also given the ability to provide greater detail (e.g., displaying lists of relevant UTxOs).
