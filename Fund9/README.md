@@ -2,7 +2,7 @@
 
 | Proposal Name    | Requested Funds | Overview | Vote Result | Status | 
 | ---------------- | --------- | --------------- | ----------- | ---------------- | 
-| [Cardano Throughput Solution](https://cardano.ideascale.com/c/idea/422388) | $81,200 | An Ouroboros-like and secure throughput solution  | Funded      | Statement of Milestones submitted | 
+| [Seath - Cardano Throughput Solution](https://cardano.ideascale.com/c/idea/422388) | $81,200 | An Ouroboros-like and secure throughput solution  | Funded      | Statement of Milestones submitted | 
 | [Cardano DApp Schemas](https://cardano.ideascale.com/c/idea/421376) | $115,200 |  A language-agnostic mechanism for specifying types used in Cardano Dapps  | Funded      | Statement of Milestones submitted | 
 | [Embedano (Embedded Devices)](https://cardano.ideascale.com/c/idea/414017) | $96,000 |  A secure and open-source library for embedded devices on Cardano  | Funded      | Statement of Milestones submitted | 
 | [CTL Blockfrost Backend](https://cardano.ideascale.com/c/idea/420791) | $50,000 | Integrating Blockfrost into the [CTL](https://github.com/Plutonomicon/cardano-transaction-lib)  | Funded      | Bootstrapping | 
