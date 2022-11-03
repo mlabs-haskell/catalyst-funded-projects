@@ -6,7 +6,7 @@ However, writing tests to check every contract permutation and edge-case state i
 
 Overall, this makes thorough testing of code simpler – a lot of the heavy lifting is automated – while ensuring edge cases are not overlooked. Our Fund9 Apropos proposal seeks to build out the Apropos project, already underway, to effectively and effortlessly provide more extensive testing and security assurances for Cardano DApps.
 
-Project ID: Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
+Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
 ## Current Status
 
