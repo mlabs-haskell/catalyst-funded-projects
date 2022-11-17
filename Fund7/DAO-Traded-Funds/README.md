@@ -43,6 +43,12 @@ Early prototype stage - see video demo below.
 
 ## Progress Report
 
+### November 2022
+
+Over the last month, MLabs completed the work outlined in our DAO Traded Funds proposal. We submitted our close-out report including a live testnet demo. We will link it below once it has been published throughout IOG channels and the grant is officially closed.
+
+Finally, we will continue to work alongside the Metera team to bring the ESG index funds project to mainnet.
+
 ### October 2022
 
 Our efforts focused on Business Development needs throughout October. MLabs and Metera team members met at RareBloom, and both used the opportunity effectively for networking.
