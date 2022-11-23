@@ -10,7 +10,7 @@ Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Current Status
 
-Bootstrapping. Awaiting initial payment.
+Bootstrapping. 
 
 ## Progress Report
 
