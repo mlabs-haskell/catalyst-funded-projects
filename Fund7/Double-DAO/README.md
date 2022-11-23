@@ -117,8 +117,6 @@ Watch a product demo [here](https://www.loom.com/share/26cfdc4aa89d4611950e086a0
 
 ## Further Information
 
-Clarity's Fund9 Proposals: https://linktr.ee/clarityprotocol
-
 Clear Contracts Website: https://clearcontracts.io/
 
 Clarity Discord: https://discord.com/invite/JYV5wSx6kB
