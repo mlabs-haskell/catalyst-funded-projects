@@ -36,11 +36,9 @@ Project ID: [700174](https://docs.google.com/spreadsheets/u/0/d/1bfnWFa94Y7Zj0G7
 
 Merged with [Metera](https://metera.io/), a DeFi protocol building on Cardano that supports sustainable portfolios.
 
-Rebranding underway.
-
 Early prototype stage - see video demo below.
 
-Catalyst grant closed out.
+Catalyst grant completed and close out documents submitted.
 
 
 ## Progress Report
@@ -71,7 +69,7 @@ The Metera team will likely rebrand DTF. MLabs formerly considered rebranding, s
 
 Metera's testnet application is nearing completion, and a v0.2 will be underway once a development plan is established between Metera and MLabs. DTF's architecture is markedly similar to Metera's, so it will likely be incorporated effortlessly. However, Fund7 funds have been allocated to the Metera prototype as it is entirely the same architecture as DTF. That said, through our work with Metera the majority of our proposal milestones have already been achieved.
 
-### **July 2022**
+### July 2022
 
 Originally, we believed DTF would be straightforward to implement from a technical standpoint. This assumption was centered on the simple, vault-like smart contract that comprises the main structure of the platform. Indeed, later work with our client Metera (formerly Enigma) verified that our design was not unduly challenging.
 
