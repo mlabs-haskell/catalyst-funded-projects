@@ -52,7 +52,7 @@ Prototype nearing completion.
 
 Over the last month, the main focus on the Business Development side was our DAO Pitch Competition. Here, Clarity, alongside expert panelists, heard pitches from 16 DAOs building in the ecosystem. The competition took place over two sessions and the results will be announced soon. 
 
-Along these lines, we also hosted a pitching workshop. Understandably, the Clarity community was focused on pitches over the last month, so developing this crucial skill together makes a lot of sense. The pitch workshop can be viewed here: www.youtube.com/watch?v=sZHrmJYAMyk
+Along these lines, we also hosted a pitching workshop. Understandably, the Clarity community was focused on pitches over the last month, so developing this crucial skill together makes a lot of sense. The pitch workshop can be viewed [here](www.youtube.com/watch?v=sZHrmJYAMyk).
 
 On the technical side, we made improvements to our documentation set and updated and reviewed our specs. This was accompanied by refactoring a portion of our codebase dealing with on-chain and off-chain storage while fixing some minor UI and browser-side issues in the meantime.
 
