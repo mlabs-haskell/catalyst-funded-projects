@@ -36,6 +36,16 @@ Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's
 
 ## Progress Report
 
+### November 2022
+
+As mentioned in our August and July monthly updates, our Plutus Specification Language incorporates Plutarch and is increasingly integrating this eDSL's type scheme and codebase over time. Towards this end, a significant portion of PSL work involved updating Plutarch to reflect Plutus changes and to make the Nix build more reliable.
+
+That said, other type adjustments were made to Plutarch that support use cases addressed by our Specification Language. For instance:
+* fixing V1 script types being re-exported in the V2 API
+* correcting the pif operator
+* support for generating type class instances
+* syntactical plugin to improve ergonomics
+
 ### October 2022
 
 Work continued over the last month with generalizing the PSL. Towards this end, the formal methods team began work specifying a second DApp, Seabug. Seabug is an internal MLabs project that produces cNFT derivatives with enhanced ownership values. The derivative minting scheme of the protocol is somewhat complex, making it a good second use case for the PSL. Details can be found [here](https://drive.google.com/file/d/1F7a0lOWKJhEuYZxcK90qN2UN1rVePXRX/view).
