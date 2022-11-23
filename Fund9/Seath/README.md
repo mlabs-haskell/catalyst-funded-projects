@@ -4,13 +4,13 @@ Protocols ("DApps") that build on top of Cardano can be viewed as distributed st
 
 A problem that most protocols encounter is that many users often need to use the same UTXOs. When multiple parties attempt to act on the same state, there is a concurrency problem. The concrete issue is that since Cardano is deterministic, a transaction references the input state via the transaction that produced it. This means that of the multiple transactions that act on the same input state, only one can be accepted. The rest will be discarded since the transaction inputs no longer exist (as they've been consumed).
 
-Seath proposes improvements to this situation by effectively leveraging an Ouroboros-like solution -- "Ouroboros on Ouroboros." In short, this entails using VRFs, a slot-based ordering system (e.g., distinct from onchain slots), and offchain components (likely Haskell) streamlined alongside onchain counterparts (likely Plutarch). Our approach will fully account for security issues including MEV vectors while amalgamating users' transactions (e.g. state changes) against the Cardano ledger.
+[Seath](https://cardano.ideascale.com/c/idea/422388) proposes improvements to this situation by effectively leveraging an Ouroboros-like solution -- "Ouroboros on Ouroboros." In short, this entails using VRFs, a slot-based ordering system (e.g., distinct from onchain slots), and offchain components (likely Haskell) streamlined alongside onchain counterparts (likely Plutarch). Our approach will fully account for security issues including MEV vectors while amalgamating users' transactions (e.g. state changes) against the Cardano ledger.
 
 Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
 ## Current Status
 
-Projected renamed "Seath." Statement of Milestones (SoM) submitted and awaiting approval.
+Bootstrapping.
 
 ## Progress Report
 
