@@ -41,9 +41,9 @@ Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video b
 ### November 2022
 
 Adding to progress last month, work in November on the CTL project further improved E2E testing and integration testing using our internal testing tool, Plutip, for conditionally spinning up disposable private testnets and testing Plutus contracts against it. In particular:
-*Options for configuring a Plutip node configuration were added
-*Reworked the Plutip process managament resulting in notable speed increase on spin-up 
-*added CIP-30 mock testing to CI
+* Options for configuring a Plutip node configuration were added
+* Reworked the Plutip process managament resulting in notable speed increase on spin-up 
+* Added CIP-30 mock testing to CI
 
 Also, coinciding with needs from our successful Fund9 proposal  CTL Blockfrost Backend (ID: 900154), we made progress in generalizing the library's architecture. Most of the work here centered on improving the contstraints interface with respect to staking (summarized in the monthly update for 900154) and handling time constraints during transaction construction. For example:
 * Fixing a bug wherein the constraint solver ignore multiple constraints 
