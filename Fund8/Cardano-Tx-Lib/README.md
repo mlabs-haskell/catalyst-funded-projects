@@ -35,8 +35,6 @@ v2.0.0 released (includes Babbage support).
 
 Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video below - and several other client projects ongoing. 
 
-Freeze on new features until Vasil hardfork has concluded.
-
 
 ## Progress Report
 
