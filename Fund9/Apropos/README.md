@@ -14,6 +14,14 @@ Bootstrapping. Awaiting initial payment.
 
 ## Progress Report
 
+### November 2022
+
+The Apropos project was rebooted last month after a successful Fund9 campaign. Since then, the repo has been refactored to support GHC 9 and it currently builds with GHC 9.2. This is an encouraging development as this was an early milestone of the Fund9 proposal.
+
+Moving forward, a handful of other issues have been addressed while others have been recently identified. At its core, Apropos relies on the Plutus-simple-model, a fast and easy-to-use testing library for writing unit tests for DApp transactions against a mock model blockchain. Since Apropos was unmaintained for a short period, the repo was updated to reflect developments on this dependency.
+
+Finally, some light clerical work was also accomplished. In particular, the repo was brought into line with our internal style guide. Meanwhile, unnecessary dependencies were also removed making the project more lightweight overall.
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Apropos proposal was successfully supported by Catalyst voters. We have established a team to work on the project and are currently awaiting the first batch of Fund9 payments before beginning work.
