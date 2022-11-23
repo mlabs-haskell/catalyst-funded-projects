@@ -12,6 +12,24 @@ Bootstrapping. Awaiting initial payment.
 
 ## Progress Report
 
+### November 2022
+
+Following the Fund9 voting results, MLabs organized a roadmap for integrating Blockfrost endpoints into the API interface of CTL. This piggybacked on early exploratory work we had already done when originally composing our original Fund9 proposal. The timeline identified several key early goals:
+* Make Contract runtime and ConfigParams parametrizable with a backend.
+* Identify core functionality needed to support multiple backends
+* Move every core query layer function to a handle (as in handle pattern)
+* Move every Ogmios query function that is not in the core set to a separate namespace (`Contract.Ogmios`)
+* Implement stubs for Blockfrost functions in the "core" handle
+Issues on the CTL repo were added to organize development here, and an initial issue was assigned.
+
+That said, the main focus since project initialization has revolved around the broader architecture of the CTL project and untying it from a particular query layer. Specifically, some broad changes are needed before we can begin supplementing our reliance on Ogmios, the only chain indexer supported up until this point. Work along these lines included:
+* extending the TxConstraints API to support staking operations (stake credential registration, pool registration, etc)
+* extending CTL types to optionally accept staking credentials
+* add constraints that apply these changes to transactions
+* update the Contract interface to support these changes as well as inline datums.
+
+And similar issues are highlighted throughout the CTL repo.
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our CTL Blockfrost Backend proposal was successfully supported by Catalyst voters. We have established a team to work on the project and our currently awaiting the first batch of Fund9 payments before beginning work.
