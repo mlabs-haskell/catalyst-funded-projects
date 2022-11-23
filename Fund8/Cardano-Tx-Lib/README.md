@@ -45,7 +45,7 @@ Adding to progress last month, work in November on the CTL project further impro
 *Reworked the Plutip process managament resulting in notable speed increase on spin-up 
 *added CIP-30 mock testing to CI
 
-Also, coinciding with needs from our successful Fund9 proposal  CTL Blockfrost Backend (ID: 900154), we made progress in generalizing the library's architecture. Most of the work here centered on improving the contstraints interface with respect to staking (summarized in the monthly updated for 900154) and handling time constraints during transaction construction. For example:
+Also, coinciding with needs from our successful Fund9 proposal  CTL Blockfrost Backend (ID: 900154), we made progress in generalizing the library's architecture. Most of the work here centered on improving the contstraints interface with respect to staking (summarized in the monthly update for 900154) and handling time constraints during transaction construction. For example:
 * Fixing a bug wherein the constraint solver ignore multiple constraints 
 * Fixed time bound inclusivenesss
 * Redesigned the Interval type along these lines and updated testing
