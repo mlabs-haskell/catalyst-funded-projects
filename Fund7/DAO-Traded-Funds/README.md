@@ -40,6 +40,8 @@ Rebranding underway.
 
 Early prototype stage - see video demo below.
 
+Catalyst grant closed out.
+
 
 ## Progress Report
 
