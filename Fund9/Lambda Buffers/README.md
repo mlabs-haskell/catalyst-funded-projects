@@ -4,7 +4,7 @@ There are no language-agnostic mechanisms for specifying the types of informatio
 
 To make Cardano DApps available across all the aforementioned platforms, structured information needs to be effectively shared in a language-agnostic manner and made available to different language/PAB environments.
 
-Lambda Buffers is a configuration language for specifying DApp schemas. The language makes use of code-generation tooling, which using the schemas produces ‘type libraries’ (aka. typelibs) for different language/PAB environments. Each typelib is generated alongside supporting libraries for handling encoding, serialization, and other essential operations. Overall, Lambda Buffers will serve as a language-neutral, extensible mechanism for specifying type definitions and code-generating different language environments.
+Lambda Buffers (formerly [DApp Schemas](https://cardano.ideascale.com/c/idea/421376)) is a configuration language for specifying DApp schemas. The language makes use of code-generation tooling, which using the schemas produces ‘type libraries’ (aka. typelibs) for different language/PAB environments. Each typelib is generated alongside supporting libraries for handling encoding, serialization, and other essential operations. Overall, Lambda Buffers will serve as a language-neutral, extensible mechanism for specifying type definitions and code-generating different language environments.
 
 Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
@@ -14,7 +14,7 @@ Roadmap revisited and will be posted here following approval.
 
 ## Current Status
 
-Projected renamed "Lambda Buffers." Statement of Milestones (SoM) submitted and awaiting approval.
+Bootstrapping.
 
 ## Progress Report
 
