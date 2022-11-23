@@ -12,6 +12,12 @@ Bootstrapping. Awaiting initial payment.
 
 ## Progress Report
 
+### November 2022
+
+MLabs began work on the Developer documentation drive this month. This involved a fair amount of management and preparatory groundwork. More specifically, we assigned an initial developer/technical writer and began surveying clients and community members -- as well as internally -- about topics and tools they feel are under documented. 
+
+We also deliberated about how best to host the material and implemented a test blog page in case we decided to host the content on our newly redesigned website. This is an appealing choice in light of recommendations from an SEO specialist we consulted. That said, we hope to begin publishing content soon.
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Dev Documentation Drive proposal was successfully supported by Catalyst voters. We have established a team to work on the project and are currently awaiting the first batch of Fund9 payments before beginning work.
