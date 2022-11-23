@@ -20,13 +20,14 @@ Following the Fund9 voting results, MLabs organized a roadmap for integrating Bl
 * Move every core query layer function to a handle (as in handle pattern)
 * Move every Ogmios query function that is not in the core set to a separate namespace (`Contract.Ogmios`)
 * Implement stubs for Blockfrost functions in the "core" handle
+
 Issues on the CTL repo were added to organize development here, and an initial issue was assigned.
 
 That said, the main focus since project initialization has revolved around the broader architecture of the CTL project and untying it from a particular query layer. Specifically, some broad changes are needed before we can begin supplementing our reliance on Ogmios, the only chain indexer supported up until this point. Work along these lines included:
-* extending the TxConstraints API to support staking operations (stake credential registration, pool registration, etc)
-* extending CTL types to optionally accept staking credentials
-* add constraints that apply these changes to transactions
-* update the Contract interface to support these changes as well as inline datums.
+* Extending the TxConstraints API to support staking operations (stake credential registration, pool registration, etc)
+* Extending CTL types to optionally accept staking credentials
+* Add constraints that apply these changes to transactions
+* Update the Contract interface to support these changes as well as inline datums.
 
 And similar issues are highlighted throughout the CTL repo.
 
