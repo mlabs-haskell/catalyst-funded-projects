@@ -14,6 +14,12 @@ Projected renamed "Seath." Statement of Milestones (SoM) submitted and awaiting 
 
 ## Progress Report
 
+### November 2022
+
+Organization for the Cardano-throughput-solution began in earnest this month. The statement of milestones was finalized, submitted, and approved by the challenge team and IOG. Moreover, the project was earlier renamed Seath, a more appealing and less obvious name than before.
+
+Ramping up production, team members with backgrounds in cryptography were chosen to participate. Furthermore, as outlined in our Statement of Milestones, we began to research the specifics of the protocol design, particularly the slot leader specification. 
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Cardano Throughput Solution proposal was successfully supported by Catalyst voters. We renamed the project to "Seath" -- it's snappier sounding, after all. Because the Seath proposal was awarded over $75,000, we must submit and receive approval for a SoM. We submitted our SoM and are currently awaiting confirmation from the Challenge and IOG teams.
