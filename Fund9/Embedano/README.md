@@ -14,6 +14,12 @@ Statement of Milestones (SoM) submitted and awaiting approval.
 
 ## Progress Report
 
+### November 2022
+
+Work on the Embedano project up until this point consisted of organization, documentation, and initial research. A team leader and team members were assigned. After initial funding was received, regular sprints were established, and early meetings were used to introduce devs to the project and accomplish onboarding orientation - the aim of the project, etc.
+
+More tangibly, a repo and internal wiki were initialized and populated with the early research/resources of the project: e.g., API and capabilities research, comparison to existing libraries, an outline of the goals of the SDK, and so on. Trezor was identified as a good comparison project due to its streaming transaction feature and open-source structure. Most important, however, the team specified the Embedano project would provide a wallet SDK that is minimally compliant with CIP-21 and compatible with the ARM Cortex-M series of processors.
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Embedano proposal was successfully supported by Catalyst voters. Because the Embedano proposal received over $75,000, we must submit and receive approval for an SoM. We submitted our SoM and are currently awaiting confirmation from the Challenge and IOG teams.
