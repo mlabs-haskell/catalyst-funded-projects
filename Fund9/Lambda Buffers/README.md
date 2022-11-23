@@ -18,6 +18,15 @@ Projected renamed "Lambda Buffers." Statement of Milestones (SoM) submitted and 
 
 ## Progress Report
 
+### November 2022
+
+Lambda Buffers (name changed) was begun this month and the initial design stage is largely underway. Considering it's still early, the majority of the work has focused on background research. Specifically, several comparable projects were investigated and are under consideration for use in the frontend:
+* Dhall
+* Protobufs with Text Format
+* JSON with JSON schemas
+
+Moreover, general design documents have also been developed internally and a PoC is underway (also internally). This design document focused on many things including generalizing Oracel/DApp data and the compilation chain of the project. The heft, however, revolves around frontend and API considerations.
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Cardano DApp Schemas proposal was successfully supported by Catalyst voters. We renamed the project to "Lambda Buffers" finding it a more representative name. Because the Lambda Buffers proposal was awarded over $75,000, we must submit and receive approval for an SoM. We submitted our SoM and are currently awaiting confirmation from the Challenge and IOG teams.
