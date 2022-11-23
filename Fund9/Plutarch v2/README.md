@@ -14,6 +14,15 @@ Bootstrapping. Awaiting initial payment.
 
 ## Progress Report
 
+### November 2022
+
+Plutarch v2.0 was ramped-up since receiving funding early this month. However, prior to that a final release of Plutarch v1 was merged. This release reflected recent changes to Plutus and fixed several code-quality issues as well as improving ergonomics. Also:
+* updating the nix build centered upon our mlabs-tooling.nix flake
+* benchmarking improvemetns
+* minor tweaks to basic Plutarch data types
+
+On the v2.0 front, work began on expanding Plutarch backend support. Compiling to Nix was an easy first step owing to the decent REPL. A bit more work here will lead to the first major updates before moving on to supporting other backends. 
+
 ### October 2022
 
 Fund9 vote results were announced in late September and our Plutarch v2 proposal was successfully supported by Catalyst voters. We have established a team to work on the project and are currently awaiting the first batch of Fund9 payments before beginning work.
