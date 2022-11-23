@@ -47,7 +47,7 @@ Catalyst grant closed out.
 
 ### November 2022
 
-Over the last month, MLabs completed the work outlined in our DAO Traded Funds proposal. We submitted our close-out report including a live testnet demo. We will link it below once it has been published throughout IOG channels and the grant is officially closed.
+Over the last month, MLabs completed the work outlined in our DAO Traded Funds proposal. We submitted our close-out report including a live testnet demo. These documents can be viewed [here](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=416498551).
 
 Finally, we will continue to work alongside the Metera team to bring the ESG index funds project to mainnet.
 
