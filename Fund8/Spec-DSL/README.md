@@ -27,7 +27,7 @@ GitHub Repo: https://github.com/mlabs-haskell/plutus-specification-language
 
 ## Current Status
 
-The PSL is in an early prototype state, and a video demo will be posted soon.
+The PSL is in an early prototype state.
 
 Type-level transaction specification completed. 
 
