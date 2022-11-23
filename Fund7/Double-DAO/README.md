@@ -48,6 +48,16 @@ Prototype nearing completion.
 
 ## Progress Report
 
+### November 2022
+
+Over the last month, the main focus on the Business Development side was our DAO Pitch Competition. Here, Clarity, alongside expert panelists, heard pitches from 16 DAOs building in the ecosystem. The competition took place over two sessions and the results will be announced soon. 
+
+Along these lines, we also hosted a pitching workshop. Understandably, the Clarity community was focused on pitches over the last month, so developing this crucial skill together makes a lot of sense. The pitch workshop can be viewed here: www.youtube.com/watch?v=sZHrmJYAMyk
+
+On the technical side, we made improvements to our documentation set and updated and reviewed our specs. This was accompanied by refactoring a portion of our codebase dealing with on-chain and off-chain storage while fixing some minor UI and browser-side issues in the meantime.
+
+That said, the Clarity dev team also continued building a fluid and effective governance system.  Specifically, this included work on the voting rewards validator and Agora integration. With Agora, some interfacing issues with CTL occupied a portion of our attention. Another core dev was onboarded, and CTL/Webpack issues were addressed.
+
 ### October 2022
 
 October was a busy month for the Clarity/DoubleDAO project, especially on the Business Development side. We met with major Cardano projects at RareBloom, cNFTcon, and the Web 3 Expo. We participated in panel discussions and the like, networking constantly, and The Clarity Twitter handle (@clarity_dao) showcases these efforts nicely. A platform aimed at promoting and facilitating DAO adoption, this type of work is vital to the recognition of our project and, ultimately, making the Cardano ecosystem more decentralized.
