@@ -48,6 +48,12 @@ Prototype nearing completion.
 
 ## Progress Report
 
+### December 2022
+
+Over the last month, MLabs completed the work outlined in our DoubleDAO proposal. We submitted our close-out report including a frontend demo. 
+
+Finally, we will continue to work alongside the Clarity team to bring Clarity to mainnet.
+
 ### November 2022
 
 Over the last month, the main focus on the Business Development side was our DAO Pitch Competition. Here, Clarity, alongside expert panelists, heard pitches from 16 DAOs building in the ecosystem. The competition took place over two sessions and the results will be announced soon. 
