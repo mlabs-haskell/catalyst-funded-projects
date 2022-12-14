@@ -14,6 +14,19 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+Over the last month, some fundamental considerations of the Apropos project were revisted - part of the project reboot following the pause mentioned last month. Specifically, this included:
+
+* addressing repo under-documentation
+* reliance on StrictData
+* handling undefined data
+* compliance with our internal style guide
+* the repo structure and dependence on the Hedgehog library
+* the broader object of the project
+
+That said, the main updates are likely that a reconfigured version of the Plutus.Simple.Model has been merged, and type formatting was readressed.
+
 ### November 2022
 
 The Apropos project was rebooted last month after a successful Fund9 campaign. Since then, the repo has been refactored to support GHC 9 and it currently builds with GHC 9.2. This is an encouraging development as this was an early milestone of the Fund9 proposal.
