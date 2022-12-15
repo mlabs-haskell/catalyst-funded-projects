@@ -14,6 +14,20 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+Progress with the Seath project (a.k.a Cardano Throughput Solution) has been swift, and we are excited to report that we have met our first major Proof of Achievement as outlined in the Statement of Milestones form.
+
+In concrete terms, this involves a detailed markdown document describing the design of the protocol. Briefly, Seath:
+
+* describes a deterministic ordering of a live queue of transactions
+* leverages UTXO determinism to ensure integrity
+* aligns the incentives of transacting parties
+* defines a leader-electing mechanism, a crucial component of the protocol
+* outlines how to take advantage of Cardano's state machine structure
+
+The document is available [here](https://github.com/mlabs-haskell/seath), and we will further submit a video to this effect to the Developer Ecosystem challenge team for review.
+
 ### November 2022
 
 Organization for the Cardano-throughput-solution began in earnest this month. The statement of milestones was finalized, submitted, and approved by the challenge team and IOG. Moreover, the project was earlier renamed Seath, a more appealing and less obvious name than before.
