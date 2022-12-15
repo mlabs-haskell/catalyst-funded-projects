@@ -14,6 +14,21 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+This month, Plutarch v2 development milestones include:
+
+* Updating Plutarch Nix
+* Nix backend output 
+* Consideration given to overloading the lambda expression
+* Work towards removing `pletFields`
+
+`pletFields` return bound field types, effectively a heterogenous Haskell list where only the used bindings are extracted and  "paid for" in terms of computing resources. Considering the Plutarch learning curve, they have been burdensome and their use is not particularly idiomatic.
+
+Perhaps a more pressing update involves backend output, namely nix language output. This addresses one of the main use cases for Plutarch, ergonomics and auditing. Our Fund9 proposal focused on adding functionality relevant to auditors and other ecosystem participants, and this is a major step in that direction.
+
+Finally, a modest update involves Liqwid, a partner who helped launch the Plutarch project. An issue was merged that made a type export more versatile and easier to incorporate into their project.
+
 ### November 2022
 
 Plutarch v2.0 was ramped-up since receiving funding early this month. However, prior to that a final release of Plutarch v1 was merged. This release reflected recent changes to Plutus and fixed several code-quality issues as well as improving ergonomics. Also:
