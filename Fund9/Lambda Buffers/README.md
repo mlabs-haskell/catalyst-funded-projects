@@ -18,6 +18,20 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+As covered in our internal design documents, decentralized applications tend to require the same types to be defined and synchronized across various parts of their architecture (on-chain, off-chain, frontend, analytics, etc.), each of which may be implemented in different languages. The Lambda Buffers project seeks to provide users with a way to define their applications’ types in an ergonomic frontend language, and then automatically generate corresponding type definitions in a wide range of target languages. 
+
+This month, many architectural decisions were pushed to the forefront of the Lambda Buffers project. The focus largely revolved around cementing a structure for the intermediate language that will ultimately oversee the codegen of the library. Care was taken to ensure types can be reliably represented in the target language while ensuring that complexity does not expand uncontrollably.
+
+More specifically, team members: 
+
+* Decided against relying on ProtBufs
+* Clarified the type formats the project would rely on and whether or not to incorporate recursive types
+* Hashed out a rough representation of type schemata
+
+Initial PRs involving constraint solvers, specification documents, and were also submitted.
+
 ### November 2022
 
 Lambda Buffers (name changed) was begun this month and the initial design stage is largely underway. Considering it's still early, the majority of the work has focused on background research. Specifically, several comparable projects were investigated and are under consideration for use in the frontend:
