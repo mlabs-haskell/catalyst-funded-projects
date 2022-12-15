@@ -36,6 +36,12 @@ Initial DApp specced in large part using our eDSL. Currently, generalizing PSL's
 
 ## Progress Report
 
+### December 2022
+
+Work progressed towards generating diagrams, a major objective of the original proposal. As a matter of fact, this essentially represents the final major milestone, suggesting we will be able to deliver a project demo video and closeout report significantly ahead of schedule. Again, MLabs' ability to frontload costs is the main reason why this is possible.
+
+The essential updates of the last month include involve extending the data types incorporated into main modules. Namely, this includes the PNat and the support for Nbe.
+
 ### November 2022
 
 As mentioned in our August and July monthly updates, our Plutus Specification Language incorporates Plutarch and is increasingly integrating this eDSL's type scheme and codebase over time. Towards this end, a significant portion of PSL work involved updating Plutarch to reflect Plutus changes and to make the Nix build more reliable.
