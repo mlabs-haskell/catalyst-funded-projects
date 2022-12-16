@@ -37,7 +37,7 @@ More specifically, team members settled on the core functionality of the Rust SD
 
 As well as some minor additional functionality.
 
-That said, these updates were covered in more detail in our initial design document released this month.
+That said, these updates were covered in more detail in our initial [design document](https://github.com/mlabs-haskell/embedano/blob/ba0f1e01e796c0dceb3559a1c227438d1acf3544/design-doc.md#introduction) released this month.
 
 ### November 2022
 
