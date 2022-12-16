@@ -14,6 +14,31 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+Embedano work this month continued threads from last month. This included:
+
+* Research solidifying into reliable design decisions
+* Summarizing the details of how similar solutions have developed - particularly efforts by Trezor and Vacuumlabs
+* Settling on interview questiosn for surveying wallet providers and DApp projects per our SoM document (These also took into consideration implications stemming from CIP-21)
+
+More specifically, team members settled on the core functionality of the Rust SDK. Including:
+
+* Generation, storing and resetting of seed phrase
+* Key derivation
+* Public payment key queries
+* Public staking key queries
+* Cardano address queries
+* Cardano transaction signing
+* Signing of arbitrary data
+* Proof of ownership for public keys or addresses
+* Seed phrase queries
+* Setting seed phrases (for recovery)
+
+As well as some minor additional functionality.
+
+That said, these updates were covered in more detail in our initial design document released this month.
+
 ### November 2022
 
 Work on the Embedano project up until this point consisted of organization, documentation, and initial research. A team leader and team members were assigned. After initial funding was received, regular sprints were established, and early meetings were used to introduce devs to the project and accomplish onboarding orientation - the aim of the project, etc.
