@@ -12,6 +12,19 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+Documentation work ramped up this month in earnest. Plutarch is likely the most used/referenced tool that MLabs is associated with, so our efforts in December focused here. More specifically we:
+* updated and expanded existing Plutrach documentation to reflect recent upgrades
+* added explanations to type definitions and design decisions surrounding them
+* outlined how newer Plutarch terms can be used
+* explained various internal mechanics
+* made existing tutorials compatible with CI
+
+We also identified areas in which the current Plutarch documentation is lacking. Namely, this includes in-depth tutorials. Currently, only basic examples are considered in the repo, which implies obvious shortcomings especially as Plutarch is updated to v2. 
+
+Here, we deliberated on which topic to focus on, opting for something higher-level than previously shown - validators, minting policies, etc. Finally, work was assigned and has begun here.
+
 ### November 2022
 
 MLabs began work on the Developer documentation drive this month. This involved a fair amount of management and preparatory groundwork. More specifically, we assigned an initial developer/technical writer and began surveying clients and community members -- as well as internally -- about topics and tools they feel are under documented. 
