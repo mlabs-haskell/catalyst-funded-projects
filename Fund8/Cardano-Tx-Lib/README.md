@@ -42,6 +42,18 @@ Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video b
 
 ### December 2022
 
+Work on CTL this month involved tackling several integration issues, clerical issues, and general feature overhauls and improvements. More specifically, team members:
+
+* helped with partner project integrations
+* reorganized the repo (removing unneeded assets, deleting stale issues/branches, etc) to improve cloning performance
+* made future design considerations for Ouroboros Leios
+* progressed the coin selection algorithm
+* added additional wallet support
+* made considerable strides in adding Yoroi support, but still straightening out several nuances.
+* improved wasm support including fixing a wasm bindgen
+
+We also accomplished some exploratory work. Mainly, this revolved around supporting Kupo on the backend. Backend diversification has been a long-standing ambition of the project, and Kupo is a leading chain indexer and likely candidate. Most likely, more efforts will be placed in this direction moving forward.
+
 ### November 2022
 
 Adding to progress last month, work in November on the CTL project further improved E2E testing and integration testing using our internal testing tool, Plutip, for conditionally spinning up disposable private testnets and testing Plutus contracts against it. In particular:
