@@ -29,7 +29,6 @@ Support is planned for the following light wallets:
 - [ ] [Lace](https://www.lace.io/)
 - [ ] [Typhon](https://typhonwallet.io/)
 - [ ] [Yoroi](https://yoroi-wallet.com/)
-- 
 
 
 ## Current Status
