@@ -12,6 +12,10 @@ Bootstrapping.
 
 ## Progress Report
 
+### December 2022
+
+
+
 ### November 2022
 
 Following the Fund9 voting results, MLabs organized a roadmap for integrating Blockfrost endpoints into the API interface of CTL. This piggybacked on early exploratory work we had already done when originally composing our original Fund9 proposal. The timeline identified several key early goals:
