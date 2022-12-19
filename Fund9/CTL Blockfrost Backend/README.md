@@ -14,7 +14,15 @@ Bootstrapping.
 
 ### December 2022
 
+The CTL has undergone some moderate reconfigurations over the last two months. Part of these efforts involved complications stemming from a separate query dependency, while others involved changes to make the project backend more generalizable. For instance, developers made progress:
 
+* considering workarounds for how Blockfrost handles UTXO support (https://github.com/Plutonomicon/cardano-transaction-lib/issues/524)
+* designing around Blockfrost's era summaries
+* integrating challenges stemming from changes on the Blockfrost end aiming at integrating CIP25
+
+And other issues.
+
+Perhaps more prominent, however, developers focused on configuring the Contract backend. Changes here were probably the most involved over the last month, and they are important in lay grounding for further Blockfrost integration.
 
 ### November 2022
 
