@@ -16,7 +16,7 @@ Bootstrapping.
 
 The CTL has undergone some moderate reconfigurations over the last two months. Part of these efforts involved complications stemming from a separate query dependency, while others involved changes to make the project backend more generalizable. For instance, developers made progress:
 
-* considering workarounds for how Blockfrost handles UTXO support (https://github.com/Plutonomicon/cardano-transaction-lib/issues/524)
+* considering workarounds for how Blockfrost handles UTXO support 
 * designing around Blockfrost's era summaries
 * integrating challenges stemming from changes on the Blockfrost end aiming at integrating CIP25
 
