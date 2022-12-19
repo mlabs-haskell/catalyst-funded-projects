@@ -12,7 +12,7 @@ GitHub Repo: https://github.com/Plutonomicon/cardano-transaction-lib
 - [x] **Stage 2** Once we can construct a simple user-to-user transaction, we will try to use the library to submit the tx with Nami
 - [x] **Stage 3** Once we have a simple working transaction, we will seek to build a Plutus smart contract transaction with datum from scratch
 - [x] **Stage 4** Once we can construct Plutus smart contract transactions, we will seek to build a library/DSL/interface such that transactions can be built using constraints and lookups - as close as possible to a cut-and-paste solution from Plutus' `Contract` monad code in Haskell (but with no guarantee that code changes are not necessary)
-  - [ ] **Stage 4.1** Investigate supporting compatibility with the Vasil hardfork and improvements to our initial `Contract` API (**In progress**)
+  - [x] **Stage 4.1** Investigate supporting compatibility with the Vasil hardfork and improvements to our initial `Contract` API (**In progress**)
 - [ ] **Stage 5** Once we have a basic `Contract`-style API, we will further refine its public interface, expand wallet support, expose a test interface, provide a more ergonomic JS/TS API, support stake validators, and support CIP workflows on the public testnet
 - [ ] **Stage 6** Once CTL's `Contract` interface has been stabilized, we will add support for even more wallets and attempt to deprecate CTL's currently required Haskell server
 
@@ -23,10 +23,13 @@ Support is planned for the following light wallets:
 - [x] [Nami](https://namiwallet.io/)
 - [x] [Gero](https://gerowallet.io/)
 - [x] [Flint](https://flint-wallet.com/)
+- [x] [Eternl (formerly CCvault)] (formerly CCvault)](https://eternl.io/)
+- [x] [Load](https://lodewallet.io/)
+- [x] [NuFi](https://nu.fi/)
 - [ ] [Lace](https://www.lace.io/)
 - [ ] [Typhon](https://typhonwallet.io/)
 - [ ] [Yoroi](https://yoroi-wallet.com/)
-- [ ] [Eternl (formerly CCvault)](https://eternl.io/)
+- 
 
 
 ## Current Status
@@ -38,6 +41,8 @@ Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video b
 
 ## Progress Report
 
+### December 2022
+
 ### November 2022
 
 Adding to progress last month, work in November on the CTL project further improved E2E testing and integration testing using our internal testing tool, Plutip, for conditionally spinning up disposable private testnets and testing Plutus contracts against it. In particular:
@@ -46,7 +51,7 @@ Adding to progress last month, work in November on the CTL project further impro
 * Added CIP-30 mock testing to CI
 
 Also, coinciding with needs from our successful Fund9 proposal  CTL Blockfrost Backend (ID: 900154), we made progress in generalizing the library's architecture. Most of the work here centered on improving the contstraints interface with respect to staking (summarized in the monthly update for 900154) and handling time constraints during transaction construction. For example:
-* Fixing a bug wherein the constraint solver ignore multiple constraints 
+* Fixing a bug wherein the constraint solver ignored multiple constraints 
 * Fixed time bound inclusivenesss
 * Redesigned the Interval type along these lines and updated testing
 
