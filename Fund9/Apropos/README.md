@@ -14,6 +14,22 @@ Bootstrapping.
 
 ## Progress Report
 
+### January 2023
+
+Over the last month, we focused on example contracts and state machines
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/9a14c7560b53a326b649f79391f8140600823d46 
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/3df0a01e36a8a40b255de1899b4165871e026096
+
+And performed some maintenance work for plutus-simple-model - untyped validators and Plutarch scripts, as well as bug fixing and cleanup
+https://github.com/mlabs-haskell/plutus-simple-model/commit/6557212cd8ba34361fda7821fe3c3e28461f51f8
+https://github.com/mlabs-haskell/plutus-simple-model/commit/98fcf391ba614e04b749857b29c12740de35332a
+
+
+Finally, we focused heavily on the balanceTx function and ensuring it balances correctly, and updating documentation
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/f562d4ae6a37184f77876c602b8521b855f6fb35
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/9a8bda4e370e2ce1c569272ea73155814349b1f2
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/8ae7f7f0263e5381dd05a0564d3369ed834bb612
+
 ### December 2022
 
 Over the last month, some fundamental considerations of the Apropos project were revisted - part of the project reboot following the pause mentioned last month. Specifically, this included:
