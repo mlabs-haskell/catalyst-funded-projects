@@ -21,14 +21,10 @@ Embedano
 Since our last monthly report, the Embedano core project was established and work has begun toward its initial implementation. More specifically, 
 
 * [a nix dev setup was established](https://github.com/mlabs-haskell/embedano/commit/a4a78ba2470a7d4060de13ae99de384b3dec46eb)
-* a QEMU sandbox established
-https://github.com/mlabs-haskell/embedano/commit/9283ebe04e438bcc016716370b29fe27acb763b1
-* early integration of core utils and serialization functions
-https://github.com/mlabs-haskell/embedano/commit/d9a311008831d0470ce79ae8eee1d788d04c331c
-* a basic CI established
-https://github.com/mlabs-haskell/embedano/commit/3d1e2e272345d7ee472c76d5bd3511124e36ba24
-* early drafting of the SDK-API
-https://github.com/mlabs-haskell/embedano/commit/159a0b3ba874af7fa5e56564c752f3988b8844f5
+* [a QEMU sandbox established](https://github.com/mlabs-haskell/embedano/commit/9283ebe04e438bcc016716370b29fe27acb763b1)
+* [early integration of core utils and serialization functions](https://github.com/mlabs-haskell/embedano/commit/d9a311008831d0470ce79ae8eee1d788d04c331c)
+* [a basic CI established](https://github.com/mlabs-haskell/embedano/commit/3d1e2e272345d7ee472c76d5bd3511124e36ba24)
+* [early drafting of the SDK-API](https://github.com/mlabs-haskell/embedano/commit/159a0b3ba874af7fa5e56564c752f3988b8844f5)
 
 Essentially our focus was on building out the fundamental building blocks of the Embedano project, and we will improve upon them in the months ahead.
 
