@@ -20,8 +20,7 @@ Embedano
 
 Since our last monthly report, the Embedano core project was established and work has begun toward its initial implementation. More specifically, 
 
-* a nix dev setup was established
-https://github.com/mlabs-haskell/embedano/commit/a4a78ba2470a7d4060de13ae99de384b3dec46eb
+* [a nix dev setup was established](https://github.com/mlabs-haskell/embedano/commit/a4a78ba2470a7d4060de13ae99de384b3dec46eb)
 * a QEMU sandbox established
 https://github.com/mlabs-haskell/embedano/commit/9283ebe04e438bcc016716370b29fe27acb763b1
 * early integration of core utils and serialization functions
