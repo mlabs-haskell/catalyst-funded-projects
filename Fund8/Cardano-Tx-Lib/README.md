@@ -40,6 +40,12 @@ Integration with [Seabug NFT Marketplace](https://seabug.io/) - see demo video b
 
 ## Progress Report
 
+### January 2023
+
+We closed out our Fund8 portion of the CTL project this month. Development continues under our Fund9 MLabs - CTL Blockfrost Backend proposal. Our demo video is available here:
+
+https://www.youtube.com/watch?v=P0imLF6QvuM&t
+
 ### December 2022
 
 Work on CTL this month involved tackling several integration issues, clerical issues, and general feature overhauls and improvements. More specifically, team members:
