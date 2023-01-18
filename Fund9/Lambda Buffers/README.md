@@ -21,15 +21,15 @@ Bootstrapping.
 ### January 2023
 
 Much progress was made over the last month, and development to date has been brisk. Most recently, progress focused on the compiler design/specs, the Frontend CLI, and documentation.
-Frontend https://github.com/mlabs-haskell/lambda-buffers/pull/11
-Kind checker - initial proposal https://github.com/mlabs-haskell/lambda-buffers/pull/10
-Update Compiler documentation https://github.com/mlabs-haskell/lambda-buffers/pull/13
+* Frontend https://github.com/mlabs-haskell/lambda-buffers/pull/11
+* Kind checker - initial proposal https://github.com/mlabs-haskell/lambda-buffers/pull/10
+* Update Compiler documentation https://github.com/mlabs-haskell/lambda-buffers/pull/13
 
 Research needed to explore the implementation space was done in
-Typeclass Constraint Solver - https://github.com/mlabs-haskell/lambda-buffers/pull/9
-Codegen Patterns experiments - https://github.com/mlabs-haskell/lambda-buffers/pull/8
-Experimental directory and Prolog checker - https://github.com/mlabs-haskell/lambda-buffers/pull/3
-Kind checking a-la Vlad using unification-fd library - https://github.com/mlabs-haskell/lambda-buffers/pull/9
+* Typeclass Constraint Solver - https://github.com/mlabs-haskell/lambda-buffers/pull/9
+* Codegen Patterns experiments - https://github.com/mlabs-haskell/lambda-buffers/pull/8
+* Experimental directory and Prolog checker - https://github.com/mlabs-haskell/lambda-buffers/pull/3
+* Kind checking a-la Vlad using unification-fd library - https://github.com/mlabs-haskell/lambda-buffers/pull/9
 
 At the moment the report has a MVP of the LambdaBuffers Frontend component in https://github.com/mlabs-haskell/lambda-buffers/tree/main/lambda-buffers-frontend. The component is able to parse text documents with .lbf extension specifying LambdaBuffers schemas, report on any relevant errors, mostly in terms of module resolution and format the document which is necessary for both testing and code quality. The component is tested and export a lambda-buffers-frontend-cli command line tool that supports above mentioned features.
 
