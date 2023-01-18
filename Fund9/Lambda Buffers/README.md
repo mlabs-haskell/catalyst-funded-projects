@@ -18,6 +18,25 @@ Bootstrapping.
 
 ## Progress Report
 
+### January 2023
+
+Much progress was made over the last month, and development to date has been brisk. Most recently, progress focused on the compiler design/specs, the Frontend CLI, and documentation.
+Frontend https://github.com/mlabs-haskell/lambda-buffers/pull/11
+Kind checker - initial proposal https://github.com/mlabs-haskell/lambda-buffers/pull/10
+Update Compiler documentation https://github.com/mlabs-haskell/lambda-buffers/pull/13
+
+Research needed to explore the implementation space was done in
+Typeclass Constraint Solver - https://github.com/mlabs-haskell/lambda-buffers/pull/9
+Codegen Patterns experiments - https://github.com/mlabs-haskell/lambda-buffers/pull/8
+Experimental directory and Prolog checker - https://github.com/mlabs-haskell/lambda-buffers/pull/3
+Kind checking a-la Vlad using unification-fd library - https://github.com/mlabs-haskell/lambda-buffers/pull/9
+
+At the moment the report has a MVP of the LambdaBuffers Frontend component in https://github.com/mlabs-haskell/lambda-buffers/tree/main/lambda-buffers-frontend. The component is able to parse text documents with .lbf extension specifying LambdaBuffers schemas, report on any relevant errors, mostly in terms of module resolution and format the document which is necessary for both testing and code quality. The component is tested and export a lambda-buffers-frontend-cli command line tool that supports above mentioned features.
+
+The LambdaBuffers Compiler in https://github.com/mlabs-haskell/lambda-buffers/tree/main/lambda-buffers-compiler currently implements the so called 'kind checking and inference' which ensures that the type definitions provided by the Frontend are indeed valid and is able to annotate each type term/expression with appropriate kind signatures. This is essential work that happens before type class checking and Codegen. A big milestone was achieved as the Compiler is now able to operate on the https://github.com/mlabs-haskell/lambda-buffers/blob/main/lambda-buffers-proto/compiler.proto API specification itself.
+
+We did a deep dive into Codegen as well, implemented a user-friendly framework with the aim of facilitating low-overhead, robust yet flexible implementation of Codegen modules. The underlying idea is that Codegen modules provide 'rule patterns' they support and know how to generate code from. This both enables gradually building such modules and having an API based structured 'capability reporting'. This effort also informed greatly on the process of type class checking which will be implemented as part of the Compiler component. This work is still experimental, but soon to be merged in the repo.
+
 ### December 2022
 
 As covered in our internal design documents, decentralized applications tend to require the same types to be defined and synchronized across various parts of their architecture (on-chain, off-chain, frontend, analytics, etc.), each of which may be implemented in different languages. The Lambda Buffers project seeks to provide users with a way to define their applications’ types in an ergonomic frontend language, and then automatically generate corresponding type definitions in a wide range of target languages. 
