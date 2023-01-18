@@ -14,6 +14,14 @@ Bootstrapping.
 
 ## Progress Report
 
+### January 2023
+
+Since the beginning of the New Year, we have made progress bootstrapping the project including basic scaffolding. This includes initializing the build artifacts as well as the basic structuring, logging, prototyping, typing, etc:
+https://github.com/mlabs-haskell/seath/commit/d17397ef8e789ddb4e900c43cdff9bec4e238b72
+
+We also accomplished some early testing and documentation:
+https://github.com/mlabs-haskell/seath/commit/abb225c486928576b8a2b4aa55cc7847a4b69ddb
+
 ### December 2022
 
 Progress with the Seath project (a.k.a Cardano Throughput Solution) has been swift, and we are excited to report that we have met our first major Proof of Achievement as outlined in the Statement of Milestones form.
