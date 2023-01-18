@@ -17,10 +17,10 @@ Bootstrapping.
 ### January 2023
 
 Since the beginning of the New Year, we have made progress bootstrapping the project including basic scaffolding. This includes initializing the build artifacts as well as the basic structuring, logging, prototyping, typing, etc:
-https://github.com/mlabs-haskell/seath/commit/d17397ef8e789ddb4e900c43cdff9bec4e238b72
+* https://github.com/mlabs-haskell/seath/commit/d17397ef8e789ddb4e900c43cdff9bec4e238b72
 
 We also accomplished some early testing and documentation:
-https://github.com/mlabs-haskell/seath/commit/abb225c486928576b8a2b4aa55cc7847a4b69ddb
+* https://github.com/mlabs-haskell/seath/commit/abb225c486928576b8a2b4aa55cc7847a4b69ddb
 
 ### December 2022
 
