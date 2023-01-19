@@ -12,6 +12,34 @@ Bootstrapping.
 
 ## Progress Report
 
+### January 2023
+
+Over the last month strides were made on several outstanding issues focused on Blockfrost integration:
+
+- Implementing getDatumByHash and getScriptByHash queries
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1378/commits
+
+- Implementing utxosAt and getUtxoByOref queries
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1366/commits
+
+- Implementing getChainTip, getEraSummaries, and getSystemStart queries
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1377/commits
+
+- Implementing transaction submission and evaluation queries
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1376/commits
+
+- Implementing retrieval of Tx metadata query
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1368/commits
+
+- Implementing retrieval of info on current epoch
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1372/commits
+
+- Generating fixtures to test JSON decoders for query responses
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1385/commits
+
+- Adding Blockfrost service to our Nix runtime environment (Arion) and Nix development shell (WIP)
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1395
+
 ### December 2022
 
 The CTL has undergone some moderate reconfigurations over the last two months. Part of these efforts involved complications stemming from a separate query dependency, while others involved changes to make the project backend more generalizable. For instance, developers made progress:
