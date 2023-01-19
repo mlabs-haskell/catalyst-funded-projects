@@ -24,7 +24,7 @@ Backend generalization and ergonomics (e.g. primitive types, coercions, and help
 https://github.com/Plutonomicon/plutarch-core/commit/b9d3a1e22ed18bc01eda1993e4ce499c6ca63342
 https://github.com/Plutonomicon/plutarch-core/commit/ff28aef59dab202993142a42f8015e6c41cb7ab9
 
-As well as, cleanups and efficiency improvements. In particular, fixing the dichotomy in handling of PType and `a PHsEf,` which was was much more essential than initially assumed (notably blocking on whether something was PType or `a PHsEf` or not would have downstream consequences that would	result in incomprehensible errors).
+As well as, cleanups and efficiency improvements. In particular, fixing the dichotomy in handling of PType and `a PHsEf` which was was much more essential than initially assumed (notably blocking on whether something was PType or `a PHsEf` or not would have downstream consequences that would	result in incomprehensible errors).
 https://github.com/Plutonomicon/plutarch-core/commit/c474e50ffedec34ce97a34d48811bc5552f5d620
 
 Reformatting
