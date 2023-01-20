@@ -12,6 +12,23 @@ Bootstrapping.
 
 ## Progress Report
 
+### January 2023
+
+Progress on the dev documentation drive continued to focus on Plutarch documentation. More specifically, work was done towards establishing hosting/site generation for the documentation:
+https://github.com/Plutonomicon/plutarch-plutus/commit/22e9b98b5646f7a59d4d322467b86461c74291c4
+
+Issues with links were addressed
+https://github.com/Plutonomicon/plutarch-plutus/commit/985ec6e717dffc67f0bac2136b82f2151a4f0b08
+
+Content was added and edited
+https://github.com/Plutonomicon/plutarch-plutus/commit/eb1f957cfc88b90db4aac27e1f8ae1ac0c51d804
+
+And Hercules CI was integrated into the document build, and we tested whether effects were properly picked up.
+
+https://github.com/Plutonomicon/plutarch-plutus/commit/6c36f618e0215ff4ba34383491de9c589b73a107#diff-206b9ce276ab5971a2489d75eb1b12999d4bf3843b7988cbe8d687cfde61dea0
+
+Finally, additional technical writers were onboarded near the end of the reporting period in order to expedite further development.
+
 ### December 2022
 
 Documentation work ramped up this month in earnest. Plutarch is likely the most used/referenced tool that MLabs is associated with, so our efforts in December focused here. More specifically we:
