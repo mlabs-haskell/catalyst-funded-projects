@@ -8,11 +8,30 @@ Embedano looks to deliver Cardano-specific software useful in hardware wallets a
 
 Project ID: Project ID: [900156](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping.
-
 ## Progress Report
+
+### February 2023
+
+Work proceeded toward establishing a well-defined SDK for the project:
+
+https://github.com/mlabs-haskell/embedano/commit/b0154f64578fbfbfed0f75d66f67d1fce17d7d99
+https://github.com/mlabs-haskell/embedano/commit/19e41621e3ea1770d97405f58c7d469162c64c9e
+
+and we accomplished a significant step in integrating a portion of our initial API into the QEMU limited resource environment:
+
+https://github.com/mlabs-haskell/embedano/pull/38
+
+Furthermore, documentation was updated and progress was made toward our Milestone 2 documentation:
+https://github.com/mlabs-haskell/embedano/pull/36
+https://github.com/mlabs-haskell/embedano/pull/39
+
+As well as progress toward a reliable CI:
+https://github.com/mlabs-haskell/embedano/pull/32
+
+Finally, basic functionality concerning key generation, signing transactions, etc. was tested and integrated:
+
+https://github.com/mlabs-haskell/embedano/pull/24/files
+https://github.com/mlabs-haskell/embedano/commit/19e41621e3ea1770d97405f58c7d469162c64c9e
 
 ### January 2023
 
