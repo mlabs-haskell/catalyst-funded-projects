@@ -6,11 +6,23 @@ A clear alternative approach to making CTL more versatile and useful is to allow
 
 Project ID: Project ID: [900154](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping. 
-
 ## Progress Report
+
+### February 2023
+
+Over the last month, team members focused on wallet integration and functionality as well as improvements to testing and documentation. This included Plutip integration:
+
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1260
+
+Furhtermore, a new test runner has been added to make it possible to run tests that are meant to be run with plutip clusters on Blockfrost. The test suite accepts private keys that correspond to a pre-funded address. It takes care of funds distribution for tests that require it, while making sure that no funds are ever lost on temporary addresses.
+This PR also includes documentation for the test suite.
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1425
+
+Adding a delay to transaction confirmations to make them more reliable:
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1412
+
+Discussion has been started in the upstream repo, with the aim to make it possible to run Blockfrost with private testnets.
+https://github.com/blockfrost/blockfrost-backend-ryo/issues/72
 
 ### January 2023
 
