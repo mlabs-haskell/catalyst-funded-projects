@@ -8,11 +8,33 @@ Overall, this makes thorough testing of code simpler – a lot of the heavy lift
 
 Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping. 
 
 ## Progress Report
+
+### February 2023
+
+Work continued implementing functions for adjunction architecture:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/11
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/10
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/16
+
+as well as a Mockchain wrapper layer:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/14
+
+The Hedgheog-plutus-simple dependency was also addressed. Specifically, more script contexts were added:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/30
+
+alongside the integration of Cardano-simple and documentation updates
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/25
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/28
+
+
+Finally, instances of untyped scripts were added to the PSM dependency:
+https://github.com/mlabs-haskell/plutus-simple-model/pull/71
+
+While other work here aimed at further Babbage support:
+https://github.com/mlabs-haskell/plutus-simple-model/pull/95
+https://github.com/mlabs-haskell/plutus-simple-model/pull/90
 
 ### January 2023
 
