@@ -12,11 +12,29 @@ Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 Roadmap revisited and will be posted here following approval.
 
-## Current Status
-
-Bootstrapping.
-
 ## Progress Report
+
+### February 2023
+
+Progress was brisk last month on the Lambda Buffers (formerly dApp Schemas) project.
+
+Reworking the Compiler to include well-defined and precise error messages at the API level:
+https://github.com/mlabs-haskell/lambda-buffers/pull/48
+https://github.com/mlabs-haskell/lambda-buffers/pull/47
+https://github.com/mlabs-haskell/lambda-buffers/pull/39
+
+As well as its frontend integration that gives a CLI to interact with the system:
+https://github.com/mlabs-haskell/lambda-buffers/pull/35
+Kind checking is made available via the CLI tools (lbf and lbc):
+https://github.com/mlabs-haskell/lambda-buffers/pull/32
+
+Team members also focused on refining the internal representation of the Proto APPI types to make it more convenient to work with:
+https://github.com/mlabs-haskell/lambda-buffers/pull/23
+https://github.com/mlabs-haskell/lambda-buffers/pull/26
+
+Compiler checks for Typeclasses and instance clauses:
+https://github.com/mlabs-haskell/lambda-buffers/pull/29
+https://github.com/mlabs-haskell/lambda-buffers/pull/44
 
 ### January 2023
 
