@@ -6,10 +6,6 @@ Our Dev Documentation Drive looks to address this issue. We seek to publish high
 
 Project ID: Project ID: [900155](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping.
-
 ## Progress Report
 
 ### February 2023
