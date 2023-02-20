@@ -14,7 +14,7 @@ Bootstrapping.
 
 ### February 2023
 
-This month, team members made toward documenting the cardano-api, a major topic highlighted in our original proposal. 
+This month, team members made progress toward documenting the cardano-api, a major topic highlighted in our original proposal. 
 
 While there was a fair amount of information, internal and external, to draw from, it was somewhat challenging to identify/develop generic use cases to highigh as examples. Of course, workable examples are an objective of the project and a key aspect of affective documentation. 
 
