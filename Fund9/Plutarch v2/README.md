@@ -14,6 +14,65 @@ Bootstrapping.
 
 ## Progress Report
 
+### February 2023
+
+Plutarch 2 used to rely heavily on type classes, often using
+quantified constraints. This design was inherently fickle, encountering
+many GHC bugs, and was also restrictive in the way you interpreted it.
+
+This is the same problem as with MTL vs. Free-monad based effect systems,
+where you effectively need O(n^2) instances to have "monad transformers"
+with type classes for them.
+
+What did this mean for us? Monad transformers are partial interpreters,
+the idea being you could build an interpreter from many small interpreters.
+This would indeed be immensely useful, as writing an interpreter/backend before
+was quite verbose, often needing much of the same logic implemented over and over again.
+This is especially problematic once you get into backend-independent optimisations.
+
+In the spirit of the Free monad revolution, Plutarch 2 now has a `Term` data type,
+that is no longer opaque. It embeds the structure of the AST transparently, encoding
+the languages it supports (i.e. the types of the nodes) in the type of `Term ls tag`.
+It generalises the concept of expressions, no longer referring to expressions directly.
+Whereas before we had `Term`, `IsPType`, `PIO`, all these have been generalised into
+_tags_.
+
+This data type is AFAICT novel, as it packs several (seemingly) new constructions.
+It supports linearly bound variables, a feat which is harder than it sounds in Free-monad-land. The story for HOAS isn't quite fleshed out yet, but either (a variant of) HOAS is possible, and if not, a syntactic sugaring on top utilising HOAS is possible.
+
+There is still much work to do, notably `interpret` isn't finished, and `interpretIn` should not
+exist. `interpretIn` can likely be "delayed", or in some way pulled out of the language to
+reduce the amount of boilerplate and increase the variety of interpretations possible.
+
+One other core reason for the superiority of this design is its support for sharing work
+done on top-level definitions of terms. Take the following:
+
+
+f :: Term ...
+f = ...
+
+g :: Term ...
+g x = f # x + f # x
+
+
+`g` includes `f`'s AST twice. After all, it's a tree, not a graph, but no! Haskell in fact
+represents this as a graph, as the two references to `f` refer to the same address in memory.
+We can detect this using GHC.StableNames, thus reducing the work done when interpreting it.
+
+This is why interpretations are modeled as folds. This is not possible with the previous type class-based design, as the top-level definitions were functions (in representation).
+
+The current design out to be able to encompass all possible use cases, notably:
+- Rewrite rules
+- Effects
+- Linearity
+- Singletons
+- Syntactic plugins/etc.
+- Subinterpreting
+- Embedding other languages
+- Optics
+- Ergonomic top-level definitions
+- Trivial-to-make backends
+
 ### January 2023
 
 Plutarch v2 
