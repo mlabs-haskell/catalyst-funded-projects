@@ -8,11 +8,22 @@ A problem that most protocols encounter is that many users often need to use the
 
 Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping.
-
 ## Progress Report
+
+### February 2023
+
+The Seath project faced some reorganization over the last month concerning team members. That said, some basic off-chain work was accomplished. This included:
+
+* initializing the Cardano-Tx-Lib
+* removed the ODC dependency
+* incorporated on-chain scaffolding
+* basic functionality for script loading 
+* incorporating our nix setup 
+
+https://github.com/mlabs-haskell/seath/pull/4
+https://github.com/mlabs-haskell/seath/commit/45d587429f3faace3a16fcb57c27f69cf54c586d
+
+That said, team members have been forced to reevaluate how to best proceed. Namely, this means determining the best basic use case to guide the structuring of the early project. Currently, team members are considering an auction as the base use case, but this decision has not been finalized yet. 
 
 ### January 2023
 
