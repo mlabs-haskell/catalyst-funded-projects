@@ -10,6 +10,23 @@ Project ID: Project ID: [900156](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Report
 
+### March 2023
+
+Over the last several weeks, team members were able to run the SDK on a device signing a transaction id via USB:
+https://github.com/mlabs-haskell/embedano/pull/40
+
+Also, an example app description was decided. This is toward a major output of the proposal:
+https://github.com/mlabs-haskell/embedano/pull/44
+
+Moreover, a CLI tool was built to query an example device sensory as part of this example project:
+https://github.com/mlabs-haskell/embedano/pull/45
+
+Finally, some clerical work was done toward refactoring, documentation, and so on:
+
+https://github.com/mlabs-haskell/embedano/commit/20432b34337ee99072caaa667b449afd285a11ed
+https://github.com/mlabs-haskell/embedano/commit/28111bf665e7ed8f14dbd3382a2d4665d40540d3
+
+
 ### February 2023
 
 Work proceeded toward establishing a well-defined SDK for the project:
