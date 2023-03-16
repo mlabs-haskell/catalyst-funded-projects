@@ -14,6 +14,27 @@ Roadmap revisited and will be posted here following approval.
 
 ## Progress Reports
 
+### March 2023
+
+Recent progress included work on Minilog-based type class checking, Updating codegen API, and additional rule scoping
+https://github.com/mlabs-haskell/lambda-buffers/pull/67
+
+And the addition of well-formed compiler tests relying on Hedgehog:
+https://github.com/mlabs-haskell/lambda-buffers/pull/57
+
+Updating the internals for the KindChecker, bumping GHC, and adding other type details
+https://github.com/mlabs-haskell/lambda-buffers/pull/58
+
+Codegen scaffolding:
+https://github.com/mlabs-haskell/lambda-buffers/pull/60
+
+clean-up
+https://github.com/mlabs-haskell/lambda-buffers/pull/66
+
+and clerical matters.
+https://github.com/mlabs-haskell/lambda-buffers/pull/70
+
+
 ### February 2023
 
 Progress was brisk last month on the Lambda Buffers (formerly dApp Schemas) project.
