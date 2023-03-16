@@ -6,7 +6,7 @@ A clear alternative approach to making CTL more versatile and useful is to allow
 
 Project ID: Project ID: [900154](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Progress Report
+## Progress Reports
 
 ### February 2023
 
