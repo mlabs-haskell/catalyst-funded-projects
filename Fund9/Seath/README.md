@@ -8,7 +8,24 @@ A problem that most protocols encounter is that many users often need to use the
 
 Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Progress Report
+## Progress Reports
+
+### March 2023
+
+We have requested a 2-month delay to milestone delivery to cover the unexpected unavailability of development team members. The form was submitted to IOG on March 2nd, and the change request was approved on March 7th.
+
+Since then, a team has been reorganized, and we are happy to report members are now making brisk progress. 
+
+More specifically, this includes establishing Seath core and continuing work on other first steps:
+https://gist.github.com/Luis-omega/e23e22cfb8fe407f8f166a9cf1a8547b
+https://github.com/mlabs-haskell/seath/pull/17
+
+Building and testing a simple addition off-chain contract
+https://github.com/mlabs-haskell/seath/pull/12
+
+And improving the script exporter for testing purposes
+https://github.com/mlabs-haskell/seath/pull/13 
+
 
 ### February 2023
 
