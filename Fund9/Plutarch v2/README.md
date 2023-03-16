@@ -14,6 +14,27 @@ Bootstrapping.
 
 ## Progress Report
 
+### March 2023 
+
+Added new experiments and a final (7th) experiment.
+
+Plutarch2New5 utilises a Coyoneda-like trick to tell what the term is supposed to contain through the index of the GADT.
+    
+Plutarch2New6 reverts to including the children in the node again yet allows partial interpretation by including the yet-to-be-applied interpretations in the term, thus essentially delaying their application until we have more information.
+    
+Plutarch2New7 adds the missing feature of interpreting _multiple_ languages at once to the trick used in Plutarch2New6.
+
+This final version should be able to encompass all envisioned use cases, e.g.:
+- HOAS
+- Partial interpretation
+- Variables in languages
+- Sharing work on top-level definitions
+- Indexed languages
+    
+It seems to be very powerful, yet it isn't entirely trivial to manipulate due to the complexity of the types. Combinators and utility functions will be added.
+
+https://github.com/Plutonomicon/plutarch-core/commit/4e0fe4d958416e4e8313bf8565e48413eed3b0b0
+
 ### February 2023
 
 Plutarch 2 used to rely heavily on type classes, often using
