@@ -11,6 +11,30 @@ Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Report
 
+### March 2023
+
+On the Hedgehog dependency, chain state initialization was added: 
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/49
+
+The test harness was integrated and added to
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/43/commits/d2c83d54d192cef0cb75617f5e452b2136143c28
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/45
+
+The project was also built within the Pioneer program English Auction:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/46
+
+And HKDs and an HKD newtype and its instances were added to the testing data:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/59
+
+Moreover, the ability to run scripts was added as well as positive and negative tests for verification:
+
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/58
+
+
+Finally, the spendScriptUntyped helper function was added to the Contract model module of the plutus-simple-model dependency
+https://github.com/mlabs-haskell/plutus-simple-model/commit/650f9584af2f3ab251bda2ae034b4eaee6d5b35d
+
+
 ### February 2023
 
 Work continued implementing functions for adjunction architecture:
