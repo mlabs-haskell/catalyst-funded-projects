@@ -8,6 +8,13 @@ Project ID: Project ID: [900154](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### March 2023
+
+We are happy to announce that we were able to deliver our CTL Blockfrost backend project. We were able to frontload development obilgations and are happy to have finished ahead of schedule. 
+
+Please see our closeout demo available here: 
+https://www.youtube.com/watch?v=zP4O8jRVlKg&t=2s
+
 ### February 2023
 
 Over the last month, team members focused on wallet integration and functionality as well as improvements to testing and documentation. This included Plutip integration:
