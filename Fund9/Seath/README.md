@@ -10,6 +10,17 @@ Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### April 2023
+
+Progress on Seath has been brisk over the last period. Milestone 2 was submitted, and several goals have been addressed:
+https://github.com/mlabs-haskell/seath/pull/31
+
+This involved significant effort integrating with CTL and the testnetworks:
+https://github.com/mlabs-haskell/seath/pull/25
+
+Finally, a number of clerical matters were handled:
+https://github.com/mlabs-haskell/seath/pull/21/commits
+
 ### March 2023
 
 We have requested a 2-month delay to milestone delivery to cover the unexpected unavailability of development team members. The form was submitted to IOG on March 2nd, and the change request was approved on March 7th.
