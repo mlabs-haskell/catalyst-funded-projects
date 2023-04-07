@@ -10,6 +10,20 @@ Project ID: Project ID: [900156](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### April 2023
+
+Over the last month, team members pushed forward on establishing the demo product - a device that can measure and verify temperatures as previously identified:
+https://github.com/mlabs-haskell/embedano/commit/f913a2810cba1174a9a0a849be7e9b1e6e8eba3b
+
+Some minor repo updates were also committed:
+https://github.com/mlabs-haskell/embedano/commit/4e895117392ffc1a798bbe5173eb595b24f99532
+
+Developing this demo is the key component of milestone 3, and the initial steps have already been taken:
+https://github.com/mlabs-haskell/embedano/pull/49
+
+And most of the work necessary for the video deliverable has been completed:
+https://github.com/mlabs-haskell/embedano/pull/52
+
 ### March 2023
 
 Over the last several weeks, team members were able to run the SDK on a device signing a transaction id via USB:
