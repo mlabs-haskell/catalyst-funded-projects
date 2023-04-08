@@ -8,6 +8,20 @@ Project ID: Project ID: [900155](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### April 2023
+
+Efforts towards a broad scope of documentation efforts continued over the last month.
+
+Specifically, team members worked to clarify and improve the documentation for Oura, specifically for filters and events:
+https://github.com/txpipe/oura/pull/553
+
+As well as for the Scrolls project:
+https://github.com/txpipe/scrolls/pull/140
+
+Moreover, work continued toward covering various bits relevant to the Cardano Ledger, cardano-cli, cardano-api, etc:
+https://github.com/pb99u069/pb99u069.github.io/commit/2a0ecb42b1d07528dd81c8b75469df695604c012
+https://github.com/pb99u069/pb99u069.github.io/commit/b9610db0cfb8fd54fc857e3c98befe3b61aa120e
+
 ### March 2023
 
 Progress on the Dev Documentation Drive occurred on several fronts over the last month. Firstly, Plutarch documentation was updated, including several editorial/clerical fixes:
