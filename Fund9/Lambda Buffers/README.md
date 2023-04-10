@@ -14,6 +14,17 @@ Roadmap revisited and will be posted here following approval.
 
 ## Progress Reports
 
+### April 2023
+
+Over the last period, team members continued finalizing and merging some of the Codegen functionality:
+https://github.com/mlabs-haskell/lambda-buffers/pull/78
+
+As well as some codegen, and runtime updates that are underway:
+https://github.com/mlabs-haskell/lambda-buffers/pull/81
+
+Finally, the webpack dependency was bumped from 5.67.0 to 5.76.0 within the ctl-env
+https://github.com/mlabs-haskell/lambda-buffers/pull/80
+
 ### March 2023
 
 Recent progress included work on Minilog-based type class checking, Updating codegen API, and additional rule scoping
