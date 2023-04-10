@@ -11,6 +11,17 @@ Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### April 2023
+
+Progress on Apropos continued focusing on the Hedgehog-plutus-simple dependency. Notably, team members switched to testing frameworks fro from Hedgehog to Tasty. This allows making scripts into unit tests:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/63
+
+And merged scriptTxValid changes implementing the ChainState data type and scriptTxValid for checking tx validity:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/pull/62
+
+Finally, there was some code cleanup:
+https://github.com/mlabs-haskell/hedgehog-plutus-simple/commit/e89be86b3a9e5550ac3d8c6b343621030733b2ba
+
 ### March 2023
 
 On the Hedgehog dependency, chain state initialization was added: 
