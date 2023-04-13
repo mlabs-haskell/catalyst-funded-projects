@@ -14,6 +14,16 @@ Bootstrapping.
 
 ## Progress Reports
 
+### April 2023
+
+Team members made several PRs for the overloaded project. These will help a lot with the usability of Plutarch 2.
+https://github.com/phadej/overloaded/pulls
+
+And members also finalised the new core design of Plutarch and put it into a PR: 
+https://github.com/Plutonomicon/plutarch-core/pull/41
+
+Finally, team members updated the repo removing old code that was built on a different, incompatible base. They will continue working on adding all the utilities required for helper functions for interpreting, folding, and so on.
+
 ### March 2023 
 
 Added new experiments and a final (7th) experiment.
