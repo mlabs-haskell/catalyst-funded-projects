@@ -10,6 +10,18 @@ Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### May 2023
+
+Last month, progress on the Seath project was brisk. A working e2e prototype, as well as documentation, was merged into master, capping efforts from last month:
+https://github.com/mlabs-haskell/seath/pull/42
+
+Moreover, substantial progress was made towards a milestone 3 demo, as described in the SoM for the project:
+https://github.com/mlabs-haskell/seath/pull/43
+https://github.com/mlabs-haskell/seath/pull/44
+
+And finally addressed issues with the CI pipeline:
+https://github.com/mlabs-haskell/seath/pull/46
+
 ### April 2023
 
 Progress on Seath has been brisk over the last period. Milestone 2 was submitted, and several goals have been addressed:
