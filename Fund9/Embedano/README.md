@@ -10,6 +10,13 @@ Project ID: Project ID: [900156](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### May 2023
+
+Last month, the development branch of the Embedano project was merged into master, and final preparations were made for the milestone 3 app demo. The project had recently frontloaded a significant amount of work, so development was relatively slow. The PoA was also submitted:
+https://github.com/mlabs-haskell/embedano/pull/53
+
+Team members also changed, and remaining members considered how the rest of the project will evolve. Currently, it seems likely that the 4th milestone may need some revision as streaming transactions - as outlined - will likely require more time and resources than originally planned.
+
 ### April 2023
 
 Over the last month, team members pushed forward on establishing the demo product - a device that can measure and verify temperatures as previously identified:
