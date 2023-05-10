@@ -8,6 +8,20 @@ Project ID: Project ID: [900155](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### May 2023
+
+Work over the last month of the docdrive project focused on documenting Plutip, an internal testing tool that relies on generating local clusters. Plutip is one of the key software projects we wished to cover and are happy to approach it.
+
+More specifically, we updated and improved the docs and some misc files of plutip-core
+https://github.com/mlabs-haskell/plutip/pull/177
+
+Team members also documented cli options as well as made progress towards an in-depth plutip overview:
+https://github.com/mlabs-haskell/plutip/pull/178 
+https://github.com/mlabs-haskell/plutip/pull/179
+
+Finally, CTL integration is a major application of the Plutip project and will be incorporated into docdrive. Initial documentation began there as well:
+https://github.com/Plutonomicon/cardano-transaction-lib/pull/1494
+
 ### April 2023
 
 Efforts towards a broad scope of documentation efforts continued over the last month.
