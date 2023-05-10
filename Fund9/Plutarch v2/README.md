@@ -14,6 +14,15 @@ Bootstrapping.
 
 ## Progress Reports
 
+### May 2023
+
+Work last month on Plutarch focused on creating an example eDSL. In particular, this involved updating and developing utility functions, types, and data constructors:
+
+Particularly, updates focused on the Permutation, ListEqMod1, Interpret and other types as well as the invPermutation, cmpListEqMod1, bring Permutation and other utility functions:
+
+https://github.com/Plutonomicon/plutarch-core/commit/6d67293c39f317545ffe2d11e9cd1752994bdbdb
+https://github.com/Plutonomicon/plutarch-core/commit/f07906648ef331e21dee4602127938d092cd444a
+
 ### April 2023
 
 Team members made several PRs for the overloaded project. These will help a lot with the usability of Plutarch 2.
