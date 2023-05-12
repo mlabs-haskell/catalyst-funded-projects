@@ -14,6 +14,19 @@ Roadmap revisited and will be posted here following approval.
 
 ## Progress Reports
 
+### May 2023  
+
+Lambda Buffers
+
+Development on the Lambda Buffers was reduced over the last month owing to developer time off and pushback on the project's next milestone. 
+
+That said, protocol buffers were split to improve overall organization and maintainability. And the nix expression was reorganized into modules.
+https://github.com/mlabs-haskell/lambda-buffers/pull/87
+
+Routine updates to the flake.lock file were also maintained:
+https://github.com/mlabs-haskell/lambda-buffers/pull/86
+https://github.com/mlabs-haskell/lambda-buffers/pull/85
+
 ### April 2023
 
 Over the last period, team members continued finalizing and merging some of the Codegen functionality:
