@@ -8,10 +8,6 @@ Essentially, Plutarch allows Plutus developers to leverage the beneficial featur
 
 Project ID: [900157](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=917336114)
 
-## Current Status
-
-Bootstrapping. 
-
 ## Progress Reports
 
 ### May 2023
