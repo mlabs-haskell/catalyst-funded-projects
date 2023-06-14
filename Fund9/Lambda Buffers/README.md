@@ -14,6 +14,22 @@ Roadmap revisited and will be posted here following approval.
 
 ## Progress Reports
 
+### June 2023 
+
+Progress on the Lambda Buffers project continued briskly as the major milestones of the project are in sight and the end v1 of the project quickly approaches. 
+
+More specifiacally, CLI enhancements including handling .lbf files which are eventually is passed to lbg for processing. This is also includes error handling and UX fixes:
+https://github.com/mlabs-haskell/lambda-buffers/pull/94
+
+Moreover, a significant amount of technical debt was addressed including API separation and streamling, ergonomic frontend updates, CLI aligment, build.json output support via lbg, a broader integration into Nix packages:
+https://github.com/mlabs-haskell/lambda-buffers/pull/92
+
+As well as regular flake.lock maintenace
+https://github.com/mlabs-haskell/lambda-buffers/pull/93
+
+Soon, team members will further integrate JSON support into the runtime and backend, which is currently a WIP.
+https://github.com/mlabs-haskell/lambda-buffers/pull/95
+
 ### May 2023  
 
 Lambda Buffers
