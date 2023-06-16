@@ -10,6 +10,14 @@ Project ID: [900157](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### June 2023
+
+The Plutarch v2 project was closed out this month and a report closeout report was submitted. Briefly, significant progress was made towards the goals of the project (more diverse backends, improved ergonimics) but work remains. The primary maintainer will continue this effort individually while working out and improving performance of the cross compile.
+
+Our closeout report can be seen here:
+
+https://youtu.be/S4hGI7V9Ki4
+
 ### May 2023
 
 Work last month on Plutarch focused on creating an example eDSL. In particular, this involved updating and developing utility functions, types, and data constructors:
