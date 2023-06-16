@@ -10,6 +10,18 @@ Project ID: [900152](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### June 2023
+
+Over the last month, we were able to close out the first version of the Seath project. Thankfully, despite some initial hiccups, the project was able to meet its major requirements and, we feel, can be considered a success. We look forward to building upon the initiative in Fund10 to further create a robust throughput solution that can be used by dApps building on Cardano. Our closeout report is currently undergoing the typical review process, and we are awaiting the final communications
+
+A closeout report can be found in the project repo - despite the name, it is meant to encompass the final two milestones:
+
+https://github.com/mlabs-haskell/seath/blob/master/milestone-3-demo.md
+
+Demo videos are also available on our YouTube:
+
+https://www.youtube.com/watch?v=LpoMD-Ya8Ec&t=9s
+
 ### May 2023
 
 Last month, progress on the Seath project was brisk. A working e2e prototype, as well as documentation, was merged into master, capping efforts from last month:
