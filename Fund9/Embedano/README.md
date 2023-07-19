@@ -10,6 +10,12 @@ Project ID: Project ID: [900156](https://docs.google.com/spreadsheets/d/1bfnWFa9
 
 ## Progress Reports
 
+### July 2023
+
+After a slight adjustment to our final deliverable, team members were able to finalize our 4th and final milestone [https://github.com/mlabs-haskell/embedano/blob/master/MILESTONE-4-TRANSACTION-STREAMING.md]. We have submitted a closeout report and - pending approval - have successfully closed out the Embedano project.
+
+Our POA4 and closeout report video is available here: https://youtu.be/LtJn7hsTrAM
+
 ### May 2023
 
 Last month, the development branch of the Embedano project was merged into master, and final preparations were made for the milestone 3 app demo. The project had recently frontloaded a significant amount of work, so development was relatively slow. The PoA was also submitted:
