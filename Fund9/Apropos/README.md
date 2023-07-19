@@ -11,6 +11,12 @@ Project ID: [900151](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo
 
 ## Progress Reports
 
+### July 2023
+
+Apropos team closed out this testing project this month. Our closeout video is available here:
+
+https://youtu.be/cRjxYWxD15s
+
 ### April 2023
 
 Progress on Apropos continued focusing on the Hedgehog-plutus-simple dependency. Notably, team members switched to testing frameworks fro from Hedgehog to Tasty. This allows making scripts into unit tests:
