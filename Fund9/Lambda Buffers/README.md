@@ -14,6 +14,12 @@ Roadmap revisited and will be posted here following approval.
 
 ## Progress Reports
 
+### July 2023
+
+Lambda Buffers teamed finalized their milestone 3 proof-of-achievement output and report. Essentially, this consists of thorough testing and documentation. The report and relevant links are available here:
+
+https://github.com/mlabs-haskell/lambda-buffers/issues/89
+
 ### June 2023 
 
 Progress on the Lambda Buffers project continued briskly as the major milestones of the project are in sight and the end v1 of the project quickly approaches. 
