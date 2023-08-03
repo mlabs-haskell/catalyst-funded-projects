@@ -1,7 +1,7 @@
 # Fund Overview
 
 | Proposal Name    | Requested Funds | Overview | Vote Result |
-| ---------------- | --------- | --------------- | ----------- | ---------------- | 
+| ---------------- | --------- | --------------- | ----------- | 
 | [Seath - Cardano Throughput Solution](https://cardano.ideascale.com/c/idea/422388) | $81,200 | An Ouroboros-like and secure throughput solution  | Funded      | 
 | [Lambda Buffers - Cardano DApp Schemas](https://cardano.ideascale.com/c/idea/421376) | $115,200 |  A language-agnostic mechanism for specifying types used in Cardano Dapps  | Funded      | 
 | [Embedano - Embedded Devices](https://cardano.ideascale.com/c/idea/414017) | $96,000 |  A secure and open-source library for embedded devices on Cardano  | Funded      | 
